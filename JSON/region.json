@@ -1,0 +1,726 @@
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba8639c"), 
+    "regioncode" : NumberInt(1), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(44)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba8639d"), 
+    "regioncode" : NumberInt(2), 
+    "regionname" : "South Asia", 
+    "countrycode" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba8639e"), 
+    "regioncode" : NumberInt(3), 
+    "regionname" : "Middle East and North Africa", 
+    "countrycode" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba8639f"), 
+    "regioncode" : NumberInt(4), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(56)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863a0"), 
+    "regioncode" : NumberInt(5), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863a1"), 
+    "regioncode" : NumberInt(6), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(101)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863a2"), 
+    "regioncode" : NumberInt(7), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(4)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863a3"), 
+    "regioncode" : NumberInt(8), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(95)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863a4"), 
+    "regioncode" : NumberInt(9), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(5)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863a5"), 
+    "regioncode" : NumberInt(10), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(69)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863a6"), 
+    "regioncode" : NumberInt(11), 
+    "regionname" : "South Asia", 
+    "countrycode" : NumberInt(6)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863a7"), 
+    "regioncode" : NumberInt(12), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(16)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863a8"), 
+    "regioncode" : NumberInt(13), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(7)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863a9"), 
+    "regioncode" : NumberInt(14), 
+    "regionname" : "South Asia", 
+    "countrycode" : NumberInt(67)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863aa"), 
+    "regioncode" : NumberInt(15), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(8)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ab"), 
+    "regioncode" : NumberInt(16), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(61)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ac"), 
+    "regioncode" : NumberInt(17), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(9)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ad"), 
+    "regioncode" : NumberInt(18), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(50)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ae"), 
+    "regioncode" : NumberInt(19), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(10)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863af"), 
+    "regioncode" : NumberInt(20), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(54)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863b0"), 
+    "regioncode" : NumberInt(21), 
+    "regionname" : "South Asia", 
+    "countrycode" : NumberInt(11)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863b1"), 
+    "regioncode" : NumberInt(22), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(98)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863b2"), 
+    "regioncode" : NumberInt(23), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(12)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863b3"), 
+    "regioncode" : NumberInt(24), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(105)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863b4"), 
+    "regioncode" : NumberInt(25), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(13)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863b5"), 
+    "regioncode" : NumberInt(26), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(14)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863b6"), 
+    "regioncode" : NumberInt(27), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(57)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863b7"), 
+    "regioncode" : NumberInt(28), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(15)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863b8"), 
+    "regioncode" : NumberInt(29), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(97)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863b9"), 
+    "regioncode" : NumberInt(30), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(17)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ba"), 
+    "regioncode" : NumberInt(31), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(83)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863bb"), 
+    "regioncode" : NumberInt(32), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(18)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863bc"), 
+    "regioncode" : NumberInt(33), 
+    "regionname" : "South Asia", 
+    "countrycode" : NumberInt(71)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863bd"), 
+    "regioncode" : NumberInt(34), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(19)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863be"), 
+    "regioncode" : NumberInt(35), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(23)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863bf"), 
+    "regioncode" : NumberInt(36), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(20)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863c0"), 
+    "regioncode" : NumberInt(37), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(75)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863c1"), 
+    "regioncode" : NumberInt(38), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(21)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863c2"), 
+    "regioncode" : NumberInt(39), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(22)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863c3"), 
+    "regioncode" : NumberInt(40), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(24)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863c4"), 
+    "regioncode" : NumberInt(41), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(30)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863c5"), 
+    "regioncode" : NumberInt(42), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(29)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863c6"), 
+    "regioncode" : NumberInt(43), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(55)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863c7"), 
+    "regioncode" : NumberInt(44), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(28)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863c8"), 
+    "regioncode" : NumberInt(45), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(77)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863c9"), 
+    "regioncode" : NumberInt(46), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(64)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ca"), 
+    "regioncode" : NumberInt(47), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(40)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863cb"), 
+    "regioncode" : NumberInt(48), 
+    "regionname" : "Middle East and North Africa", 
+    "countrycode" : NumberInt(31)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863cc"), 
+    "regioncode" : NumberInt(49), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(32)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863cd"), 
+    "regioncode" : NumberInt(50), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(42)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ce"), 
+    "regioncode" : NumberInt(51), 
+    "regionname" : "South Asia", 
+    "countrycode" : NumberInt(45)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863cf"), 
+    "regioncode" : NumberInt(52), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(34)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863d0"), 
+    "regioncode" : NumberInt(53), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(51)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863d1"), 
+    "regioncode" : NumberInt(54), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(53)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863d2"), 
+    "regioncode" : NumberInt(55), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(36)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863d3"), 
+    "regioncode" : NumberInt(56), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(92)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863d4"), 
+    "regioncode" : NumberInt(57), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(37)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863d5"), 
+    "regioncode" : NumberInt(58), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(38)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863d6"), 
+    "regioncode" : NumberInt(59), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(39)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863d7"), 
+    "regioncode" : NumberInt(60), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(41)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863d8"), 
+    "regioncode" : NumberInt(61), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(43)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863d9"), 
+    "regioncode" : NumberInt(62), 
+    "regionname" : "Middle East and North Africa", 
+    "countrycode" : NumberInt(106)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863da"), 
+    "regioncode" : NumberInt(63), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(46)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863db"), 
+    "regioncode" : NumberInt(64), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(60)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863dc"), 
+    "regioncode" : NumberInt(65), 
+    "regionname" : "Middle East and North Africa", 
+    "countrycode" : NumberInt(47)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863dd"), 
+    "regioncode" : NumberInt(66), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(48)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863de"), 
+    "regioncode" : NumberInt(67), 
+    "regionname" : "Middle East and North Africa", 
+    "countrycode" : NumberInt(49)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863df"), 
+    "regioncode" : NumberInt(68), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(89)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863e0"), 
+    "regioncode" : NumberInt(69), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(59)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863e1"), 
+    "regioncode" : NumberInt(70), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(87)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863e2"), 
+    "regioncode" : NumberInt(71), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(99)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863e3"), 
+    "regioncode" : NumberInt(72), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(74)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863e4"), 
+    "regioncode" : NumberInt(73), 
+    "regionname" : "South Asia", 
+    "countrycode" : NumberInt(58)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863e5"), 
+    "regioncode" : NumberInt(74), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(91)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863e6"), 
+    "regioncode" : NumberInt(75), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(62)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863e7"), 
+    "regioncode" : NumberInt(76), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(63)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863e8"), 
+    "regioncode" : NumberInt(77), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(102)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863e9"), 
+    "regioncode" : NumberInt(78), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(65)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ea"), 
+    "regioncode" : NumberInt(79), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(116)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863eb"), 
+    "regioncode" : NumberInt(80), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(66)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ec"), 
+    "regioncode" : NumberInt(81), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(68)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ed"), 
+    "regioncode" : NumberInt(82), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(70)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ee"), 
+    "regioncode" : NumberInt(83), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(78)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ef"), 
+    "regioncode" : NumberInt(84), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(72)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863f0"), 
+    "regioncode" : NumberInt(85), 
+    "regionname" : "Middle East and North Africa", 
+    "countrycode" : NumberInt(100)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863f1"), 
+    "regioncode" : NumberInt(86), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(73)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863f2"), 
+    "regioncode" : NumberInt(87), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(81)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863f3"), 
+    "regioncode" : NumberInt(88), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(126)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863f4"), 
+    "regioncode" : NumberInt(89), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(82)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863f5"), 
+    "regioncode" : NumberInt(90), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(127)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863f6"), 
+    "regioncode" : NumberInt(91), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(85)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863f7"), 
+    "regioncode" : NumberInt(92), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(118)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863f8"), 
+    "regioncode" : NumberInt(93), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(90)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863f9"), 
+    "regioncode" : NumberInt(94), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(96)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863fa"), 
+    "regioncode" : NumberInt(95), 
+    "regionname" : "Middle East and North Africa", 
+    "countrycode" : NumberInt(93)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863fb"), 
+    "regioncode" : NumberInt(96), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(107)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863fc"), 
+    "regioncode" : NumberInt(97), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(103)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863fd"), 
+    "regioncode" : NumberInt(98), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(113)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863fe"), 
+    "regioncode" : NumberInt(99), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(136)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba863ff"), 
+    "regioncode" : NumberInt(100), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(114)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86400"), 
+    "regioncode" : NumberInt(101), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(119)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86401"), 
+    "regioncode" : NumberInt(102), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(124)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86402"), 
+    "regioncode" : NumberInt(103), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(115)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86403"), 
+    "regioncode" : NumberInt(104), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(117)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86404"), 
+    "regioncode" : NumberInt(105), 
+    "regionname" : "Africa West", 
+    "countrycode" : NumberInt(131)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86405"), 
+    "regioncode" : NumberInt(106), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(139)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86406"), 
+    "regioncode" : NumberInt(107), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(143)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86407"), 
+    "regioncode" : NumberInt(108), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(146)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86408"), 
+    "regioncode" : NumberInt(109), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(148)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86409"), 
+    "regioncode" : NumberInt(110), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(152)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba8640a"), 
+    "regioncode" : NumberInt(111), 
+    "regionname" : "Middle East and North Africa", 
+    "countrycode" : NumberInt(153)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba8640b"), 
+    "regioncode" : NumberInt(112), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(155)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba8640c"), 
+    "regioncode" : NumberInt(113), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(157)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba8640d"), 
+    "regioncode" : NumberInt(114), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(158)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba8640e"), 
+    "regioncode" : NumberInt(115), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(161)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba8640f"), 
+    "regioncode" : NumberInt(116), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(163)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86410"), 
+    "regioncode" : NumberInt(117), 
+    "regionname" : "East Asia and Pacific", 
+    "countrycode" : NumberInt(164)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86411"), 
+    "regioncode" : NumberInt(118), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(167)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86412"), 
+    "regioncode" : NumberInt(119), 
+    "regionname" : "Africa East", 
+    "countrycode" : NumberInt(170)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86413"), 
+    "regioncode" : NumberInt(120), 
+    "regionname" : "Europe and Central Asia", 
+    "countrycode" : NumberInt(175)
+}
+{ 
+    "_id" : ObjectId("5fcfca53be331a34cba86414"), 
+    "regioncode" : NumberInt(121), 
+    "regionname" : "Latin America and Caribbean", 
+    "countrycode" : NumberInt(176)
+}

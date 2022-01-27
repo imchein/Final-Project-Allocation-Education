@@ -1,0 +1,114 @@
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867cf"), 
+    "timecode" : NumberInt(1), 
+    "start_project" : ISODate("2015-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2015-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867d0"), 
+    "timecode" : NumberInt(2), 
+    "start_project" : ISODate("2012-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2013-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867d1"), 
+    "timecode" : NumberInt(3), 
+    "start_project" : ISODate("2015-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2016-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867d2"), 
+    "timecode" : NumberInt(4), 
+    "start_project" : ISODate("2011-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2012-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867d3"), 
+    "timecode" : NumberInt(5), 
+    "start_project" : ISODate("2019-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2019-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867d4"), 
+    "timecode" : NumberInt(6), 
+    "start_project" : ISODate("2012-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2012-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867d5"), 
+    "timecode" : NumberInt(7), 
+    "start_project" : ISODate("2011-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2011-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867d6"), 
+    "timecode" : NumberInt(8), 
+    "start_project" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2018-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867d7"), 
+    "timecode" : NumberInt(9), 
+    "start_project" : ISODate("2010-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2010-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867d8"), 
+    "timecode" : NumberInt(10), 
+    "start_project" : ISODate("2018-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2018-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867d9"), 
+    "timecode" : NumberInt(11), 
+    "start_project" : ISODate("2016-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2017-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867da"), 
+    "timecode" : NumberInt(12), 
+    "start_project" : ISODate("2014-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2014-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867db"), 
+    "timecode" : NumberInt(13), 
+    "start_project" : ISODate("2014-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2015-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867dc"), 
+    "timecode" : NumberInt(14), 
+    "start_project" : ISODate("2017-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2017-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867dd"), 
+    "timecode" : NumberInt(15), 
+    "start_project" : ISODate("2016-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2016-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867de"), 
+    "timecode" : NumberInt(16), 
+    "start_project" : ISODate("2013-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2014-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867df"), 
+    "timecode" : NumberInt(17), 
+    "start_project" : ISODate("2013-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2013-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867e0"), 
+    "timecode" : NumberInt(18), 
+    "start_project" : ISODate("2009-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2010-01-01T05:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5fcfca6fbe331a34cba867e1"), 
+    "timecode" : NumberInt(19), 
+    "start_project" : ISODate("2010-01-01T05:00:00.000+0000"), 
+    "end_project" : ISODate("2011-01-01T05:00:00.000+0000")
+}

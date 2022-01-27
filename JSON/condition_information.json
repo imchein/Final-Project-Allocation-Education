@@ -1,0 +1,198 @@
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b67"), 
+    "indicatorcode" : NumberInt(1), 
+    "indicator" : "Adjusted net attendance rate, one year before the official primary entry age", 
+    "sex" : "Total"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b68"), 
+    "indicatorcode" : NumberInt(2), 
+    "indicator" : "Adjusted net attendance rate, one year before the official primary entry age", 
+    "sex" : "Male"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b69"), 
+    "indicatorcode" : NumberInt(3), 
+    "indicator" : "Adjusted net attendance rate, one year before the official primary entry age", 
+    "sex" : "Female"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b6a"), 
+    "indicatorcode" : NumberInt(4), 
+    "indicator" : "Adjusted net attendance rate for children of primary school age", 
+    "sex" : "Total"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b6b"), 
+    "indicatorcode" : NumberInt(5), 
+    "indicator" : "Adjusted net attendance rate for children of primary school age", 
+    "sex" : "Male"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b6c"), 
+    "indicatorcode" : NumberInt(6), 
+    "indicator" : "Adjusted net attendance rate for children of primary school age", 
+    "sex" : "Female"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b6d"), 
+    "indicatorcode" : NumberInt(7), 
+    "indicator" : "Adjusted net attendance rate for adolescents of lower secondary school age", 
+    "sex" : "Total"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b6e"), 
+    "indicatorcode" : NumberInt(8), 
+    "indicator" : "Adjusted net attendance rate for adolescents of lower secondary school age", 
+    "sex" : "Male"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b6f"), 
+    "indicatorcode" : NumberInt(9), 
+    "indicator" : "Adjusted net attendance rate for adolescents of lower secondary school age", 
+    "sex" : "Female"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b70"), 
+    "indicatorcode" : NumberInt(10), 
+    "indicator" : "Adjusted net attendance rate for youth of upper secondary school age", 
+    "sex" : "Total"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b71"), 
+    "indicatorcode" : NumberInt(11), 
+    "indicator" : "Adjusted net attendance rate for youth of upper secondary school age", 
+    "sex" : "Male"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b72"), 
+    "indicatorcode" : NumberInt(12), 
+    "indicator" : "Adjusted net attendance rate for youth of upper secondary school age", 
+    "sex" : "Female"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b73"), 
+    "indicatorcode" : NumberInt(13), 
+    "indicator" : "Completion rate for adolescents of lower secondary school age", 
+    "sex" : "Total"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b74"), 
+    "indicatorcode" : NumberInt(14), 
+    "indicator" : "Completion rate for adolescents of lower secondary school age", 
+    "sex" : "Male"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b75"), 
+    "indicatorcode" : NumberInt(15), 
+    "indicator" : "Completion rate for adolescents of lower secondary school age", 
+    "sex" : "Female"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b76"), 
+    "indicatorcode" : NumberInt(16), 
+    "indicator" : "Completion rate for youth of upper secondary education school age", 
+    "sex" : "Total"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b77"), 
+    "indicatorcode" : NumberInt(17), 
+    "indicator" : "Completion rate for youth of upper secondary education school age", 
+    "sex" : "Male"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b78"), 
+    "indicatorcode" : NumberInt(18), 
+    "indicator" : "Completion rate for youth of upper secondary education school age", 
+    "sex" : "Female"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b79"), 
+    "indicatorcode" : NumberInt(19), 
+    "indicator" : "Out-of-school rate for adolescents of lower secondary school age", 
+    "sex" : "Total"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b7a"), 
+    "indicatorcode" : NumberInt(20), 
+    "indicator" : "Out-of-school rate for adolescents of lower secondary school age", 
+    "sex" : "Male"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b7b"), 
+    "indicatorcode" : NumberInt(21), 
+    "indicator" : "Out-of-school rate for adolescents of lower secondary school age", 
+    "sex" : "Female"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b7c"), 
+    "indicatorcode" : NumberInt(22), 
+    "indicator" : "Completion rate for children of primary school age", 
+    "sex" : "Total"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b7d"), 
+    "indicatorcode" : NumberInt(23), 
+    "indicator" : "Completion rate for children of primary school age", 
+    "sex" : "Male"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b7e"), 
+    "indicatorcode" : NumberInt(24), 
+    "indicator" : "Completion rate for children of primary school age", 
+    "sex" : "Female"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b7f"), 
+    "indicatorcode" : NumberInt(25), 
+    "indicator" : "Out-of-school rate for youth of upper secondary school age", 
+    "sex" : "Total"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b80"), 
+    "indicatorcode" : NumberInt(26), 
+    "indicator" : "Out-of-school rate for youth of upper secondary school age", 
+    "sex" : "Female"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b81"), 
+    "indicatorcode" : NumberInt(27), 
+    "indicator" : "Out-of-school rate for youth of upper secondary school age", 
+    "sex" : "Male"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b82"), 
+    "indicatorcode" : NumberInt(28), 
+    "indicator" : "Out-of-school rate for children of primary school age", 
+    "sex" : "Total"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b83"), 
+    "indicatorcode" : NumberInt(29), 
+    "indicator" : "Out-of-school rate for children of primary school age", 
+    "sex" : "Female"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b84"), 
+    "indicatorcode" : NumberInt(30), 
+    "indicator" : "Out-of-school rate for children of primary school age", 
+    "sex" : "Male"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b85"), 
+    "indicatorcode" : NumberInt(31), 
+    "indicator" : "Youth literacy rate for 15-24 years", 
+    "sex" : "Total"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b86"), 
+    "indicatorcode" : NumberInt(32), 
+    "indicator" : "Youth literacy rate for 15-24 years", 
+    "sex" : "Female"
+}
+{ 
+    "_id" : ObjectId("5fcfc9d3be331a34cba82b87"), 
+    "indicatorcode" : NumberInt(33), 
+    "indicator" : "Youth literacy rate for 15-24 years", 
+    "sex" : "Male"
+}

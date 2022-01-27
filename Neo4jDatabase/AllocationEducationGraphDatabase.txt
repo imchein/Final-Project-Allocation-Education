@@ -1,0 +1,90 @@
+// Lets import the data and create the nodes:
+
+LOAD CSV WITH HEADERS FROM 'file:///project.csv' AS row
+MERGE (project:PROJECT {projectID: row.projectid})
+  ON CREATE SET project.name = row.project_name, project.status = row.status; 
+
+LOAD CSV WITH HEADERS FROM 'file:///borrower.csv' AS row
+MERGE (borrower:BORROWER {borrowerID: row.borrowers_id})
+  ON CREATE SET borrower.name = row.borrower;
+
+LOAD CSV WITH HEADERS FROM 'file:///dates.csv' AS row
+MERGE (dates:DATES {datesID: row.dates_id})
+  ON CREATE SET dates.start_project = row.boardapprovalyear, dates.end_project = row.closingdateyear;
+
+LOAD CSV WITH HEADERS FROM 'file:///sector.csv' AS row
+MERGE (sector:SECTOR {sectorID: row.sector_id})
+  ON CREATE SET sector.goal = row.new_sector1; 
+
+LOAD CSV WITH HEADERS FROM 'file:///money.csv' AS row
+MERGE (money:MONEY {moneyID: row.money_id})
+  ON CREATE SET money.grantAmount = row. grantamt, money.lendProjectCost = row.lendprojectcost; 
+
+LOAD CSV WITH HEADERS FROM 'file:///region.csv' AS row
+MERGE (region:REGION {regionID: row.regioncode})
+  ON CREATE SET region.name = row.regionname; 
+
+LOAD CSV WITH HEADERS FROM 'file:///countries.csv' AS row
+MERGE (country:COUNTRY {countryID: row.countrycode})
+  ON CREATE SET country.name = row.countryname; 
+
+LOAD CSV WITH HEADERS FROM 'file:///condition_information.csv' AS row
+MERGE (indicator:INDICATOR {indicatorID: row.indicatorcode})
+  ON CREATE SET indicator.category = row.indicator;
+
+LOAD CSV WITH HEADERS FROM 'file:///observation_information.csv' AS row
+MERGE (observation:OBS {observationID: row.observationcode})
+  ON CREATE SET observation.value = row.obs_value;
+
+LOAD CSV WITH HEADERS FROM 'file:///time_period.csv' AS row
+MERGE (time:TIME {timeID: row.timecode})
+  ON CREATE SET time.start = row.start_project, time.end = row.end_project;
+
+// Lets now create the relationship between the nodes
+CREATE INDEX projectID FOR (p:PROJECT) ON (p. projectID);
+CREATE INDEX borrowerID FOR (b:BORROWER) ON (b.borrowerID);
+CREATE INDEX datesID FOR (d:DATES) ON (d.datesID);
+CREATE INDEX sectorID FOR (s:SECTOR) ON (s.sectorID);
+CREATE INDEX moneyID FOR (m:MONEY) ON (m.money);
+CREATE INDEX regionID FOR (r:REGION) ON (r.regionID);
+CREATE INDEX countryID FOR (c:COUNTRY) ON (c.countryID); 
+CREATE INDEX indCategory FOR (i:INDICATOR) ON (i.indicatorID);
+CREATE INDEX indicatorID FOR (i:INDICATOR) ON (i.category);
+CREATE INDEX observationID FOR (o:OBS) ON (o.observationID);
+CREATE INDEX timeID FOR (t:TIME) ON (t.timeID);
+
+// Create relationships between project and borrower 
+MATCH (project:PROJECT ), (borrower:BORROWER)
+MERGE (project)-[pb:FUNDED_BY]->(borrower);
+
+// Create relationships between project and dates 
+MATCH (project:PROJECT), (dates:DATES)
+MERGE (project)-[pd:YEAR]->(dates); 
+ 
+// Create relationships between project and sector 
+MATCH (project:PROJECT), (sector:SECTOR)
+MERGE (project)-[ps:GOAL]->(sector);
+
+// Create relationships between project and money 
+MATCH (project:PROJECT), (money:MONEY)
+MERGE (project)-[pm:COST_OF]->(money);
+
+// Create relationships between project and region 
+MATCH (project:PROJECT),  (region:REGION)
+MERGE (project)-[pr:PROJ_WHERE]->(region);
+
+// Create relationships between country and region 
+MATCH (country:COUNTRY), (region:REGION)
+MERGE (country)-[cr:REGION]->(region);
+
+// Create relationships between country and indicator 
+MATCH (country:COUNTRY), (indicator:INDICATOR)
+MERGE (country)-[ci:IND_WHERE]->(indicator);
+
+// Create relationships between indicator and obs_value 
+MATCH (indicator:INDICATOR), (observation:OBS)
+MERGE (indicator)-[io:VALUE]->(observation);
+
+// Create relationships between indicator and time_period 
+MATCH (indicator:INDICATOR), (time:TIME)
+MERGE (indicator)-[it:IND_YEAR]->(time);

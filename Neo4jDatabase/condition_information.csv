@@ -1,0 +1,232 @@
+indicatorcode,indicator,sex,observablecode,countrycode,indicatorcode,observationcode,timecode,countrycode,countryname
+1,"Adjusted net attendance rate, one year before the official primary entry age",Total,1,1,1,1,1,1,Afghanistan
+2,"Adjusted net attendance rate, one year before the official primary entry age",Male,2,1,2,2,1,1,Afghanistan
+3,"Adjusted net attendance rate, one year before the official primary entry age",Female,3,1,3,3,1,1,Afghanistan
+4,"Adjusted net attendance rate for children of primary school age",Total,307,1,4,299,1,1,Afghanistan
+5,"Adjusted net attendance rate for children of primary school age",Male,308,1,5,300,1,1,Afghanistan
+6,"Adjusted net attendance rate for children of primary school age",Female,309,1,6,301,1,1,Afghanistan
+7,"Adjusted net attendance rate for adolescents of lower secondary school age",Total,656,1,7,599,1,1,Afghanistan
+8,"Adjusted net attendance rate for adolescents of lower secondary school age",Male,657,1,8,600,1,1,Afghanistan
+9,"Adjusted net attendance rate for adolescents of lower secondary school age",Female,658,1,9,601,1,1,Afghanistan
+10,"Adjusted net attendance rate for youth of upper secondary school age",Total,968,1,10,885,1,1,Afghanistan
+11,"Adjusted net attendance rate for youth of upper secondary school age",Male,969,1,11,886,1,1,Afghanistan
+12,"Adjusted net attendance rate for youth of upper secondary school age",Female,970,1,12,887,1,1,Afghanistan
+13,"Completion rate for adolescents of lower secondary school age",Total,1274,1,13,1180,1,1,Afghanistan
+14,"Completion rate for adolescents of lower secondary school age",Male,1275,1,14,1181,1,1,Afghanistan
+15,"Completion rate for adolescents of lower secondary school age",Female,1276,1,15,1182,1,1,Afghanistan
+16,"Completion rate for youth of upper secondary education school age",Total,1589,1,16,1477,1,1,Afghanistan
+17,"Completion rate for youth of upper secondary education school age",Male,1590,1,17,1478,1,1,Afghanistan
+18,"Completion rate for youth of upper secondary education school age",Female,1591,1,18,1479,1,1,Afghanistan
+19,"Out-of-school rate for adolescents of lower secondary school age",Total,1904,1,19,1781,1,1,Afghanistan
+20,"Out-of-school rate for adolescents of lower secondary school age",Male,1905,1,20,1782,1,1,Afghanistan
+21,"Out-of-school rate for adolescents of lower secondary school age",Female,1906,1,21,1783,1,1,Afghanistan
+22,"Completion rate for children of primary school age",Total,2225,1,22,2077,1,1,Afghanistan
+23,"Completion rate for children of primary school age",Male,2226,1,23,2078,1,1,Afghanistan
+24,"Completion rate for children of primary school age",Female,2227,1,24,2079,1,1,Afghanistan
+25,"Out-of-school rate for youth of upper secondary school age",Total,2540,1,25,2366,1,1,Afghanistan
+26,"Out-of-school rate for youth of upper secondary school age",Female,2541,1,26,2367,1,1,Afghanistan
+27,"Out-of-school rate for youth of upper secondary school age",Male,2542,1,27,2368,1,1,Afghanistan
+28,"Out-of-school rate for children of primary school age",Total,2855,1,28,2658,1,1,Afghanistan
+29,"Out-of-school rate for children of primary school age",Female,2856,1,29,2659,1,1,Afghanistan
+30,"Out-of-school rate for children of primary school age",Male,2857,1,30,2660,1,1,Afghanistan
+31,"Youth literacy rate for 15-24 years",Total,3188,1,31,2918,20,1,Afghanistan
+31,"Youth literacy rate for 15-24 years",Total,3189,1,31,2919,20,1,Afghanistan
+31,"Youth literacy rate for 15-24 years",Total,3190,1,31,2920,20,1,Afghanistan
+32,"Youth literacy rate for 15-24 years",Female,3191,1,32,2921,20,1,Afghanistan
+32,"Youth literacy rate for 15-24 years",Female,3192,1,32,2922,20,1,Afghanistan
+32,"Youth literacy rate for 15-24 years",Female,3193,1,32,2923,20,1,Afghanistan
+33,"Youth literacy rate for 15-24 years",Male,3194,1,33,2924,20,1,Afghanistan
+33,"Youth literacy rate for 15-24 years",Male,3195,1,33,2925,20,1,Afghanistan
+33,"Youth literacy rate for 15-24 years",Male,3196,1,33,2926,20,1,Afghanistan
+3,"Adjusted net attendance rate, one year before the official primary entry age",Female,4,2,3,4,2,2,Algeria
+1,"Adjusted net attendance rate, one year before the official primary entry age",Total,5,2,1,5,2,2,Algeria
+2,"Adjusted net attendance rate, one year before the official primary entry age",Male,6,2,2,6,2,2,Algeria
+6,"Adjusted net attendance rate for children of primary school age",Female,310,2,6,302,2,2,Algeria
+4,"Adjusted net attendance rate for children of primary school age",Total,311,2,4,303,2,2,Algeria
+5,"Adjusted net attendance rate for children of primary school age",Male,312,2,5,303,2,2,Algeria
+9,"Adjusted net attendance rate for adolescents of lower secondary school age",Female,659,2,9,602,2,2,Algeria
+7,"Adjusted net attendance rate for adolescents of lower secondary school age",Total,660,2,7,603,2,2,Algeria
+8,"Adjusted net attendance rate for adolescents of lower secondary school age",Male,661,2,8,604,2,2,Algeria
+12,"Adjusted net attendance rate for youth of upper secondary school age",Female,971,2,12,888,2,2,Algeria
+10,"Adjusted net attendance rate for youth of upper secondary school age",Total,972,2,10,889,2,2,Algeria
+11,"Adjusted net attendance rate for youth of upper secondary school age",Male,973,2,11,890,2,2,Algeria
+13,"Completion rate for adolescents of lower secondary school age",Total,1280,2,13,1186,2,2,Algeria
+15,"Completion rate for adolescents of lower secondary school age",Female,1281,2,15,1187,2,2,Algeria
+14,"Completion rate for adolescents of lower secondary school age",Male,1282,2,14,1188,2,2,Algeria
+18,"Completion rate for youth of upper secondary education school age",Female,1595,2,18,1483,2,2,Algeria
+16,"Completion rate for youth of upper secondary education school age",Total,1596,2,16,1484,2,2,Algeria
+17,"Completion rate for youth of upper secondary education school age",Male,1597,2,17,1485,2,2,Algeria
+21,"Out-of-school rate for adolescents of lower secondary school age",Female,1910,2,21,1786,2,2,Algeria
+19,"Out-of-school rate for adolescents of lower secondary school age",Total,1911,2,19,1787,2,2,Algeria
+20,"Out-of-school rate for adolescents of lower secondary school age",Male,1912,2,20,1788,2,2,Algeria
+24,"Completion rate for children of primary school age",Female,2231,2,24,2083,2,2,Algeria
+22,"Completion rate for children of primary school age",Total,2232,2,22,2084,2,2,Algeria
+23,"Completion rate for children of primary school age",Male,2233,2,23,2085,2,2,Algeria
+26,"Out-of-school rate for youth of upper secondary school age",Female,2546,2,26,2372,2,2,Algeria
+25,"Out-of-school rate for youth of upper secondary school age",Total,2547,2,25,2373,2,2,Algeria
+27,"Out-of-school rate for youth of upper secondary school age",Male,2548,2,27,2374,2,2,Algeria
+28,"Out-of-school rate for children of primary school age",Total,2861,2,28,2663,2,2,Algeria
+29,"Out-of-school rate for children of primary school age",Female,2862,2,29,2664,2,2,Algeria
+30,"Out-of-school rate for children of primary school age",Male,2863,2,30,2665,2,2,Algeria
+32,"Youth literacy rate for 15-24 years",Female,3212,2,32,2942,20,2,Algeria
+32,"Youth literacy rate for 15-24 years",Female,3213,2,32,2943,20,2,Algeria
+32,"Youth literacy rate for 15-24 years",Female,3214,2,32,2944,20,2,Algeria
+32,"Youth literacy rate for 15-24 years",Female,3215,2,32,2945,20,2,Algeria
+32,"Youth literacy rate for 15-24 years",Female,3216,2,32,2946,20,2,Algeria
+33,"Youth literacy rate for 15-24 years",Male,3217,2,33,2947,20,2,Algeria
+33,"Youth literacy rate for 15-24 years",Male,3218,2,33,2948,20,2,Algeria
+33,"Youth literacy rate for 15-24 years",Male,3219,2,33,2949,20,2,Algeria
+33,"Youth literacy rate for 15-24 years",Male,3220,2,33,2950,20,2,Algeria
+33,"Youth literacy rate for 15-24 years",Male,3221,2,33,2951,20,2,Algeria
+31,"Youth literacy rate for 15-24 years",Total,3222,2,31,2952,20,2,Algeria
+31,"Youth literacy rate for 15-24 years",Total,3223,2,31,2953,20,2,Algeria
+31,"Youth literacy rate for 15-24 years",Total,3224,2,31,2954,20,2,Algeria
+31,"Youth literacy rate for 15-24 years",Total,3225,2,31,2955,20,2,Algeria
+31,"Youth literacy rate for 15-24 years",Total,3226,2,31,2956,20,2,Algeria
+2,"Adjusted net attendance rate, one year before the official primary entry age",Male,7,3,2,7,3,3,Angola
+1,"Adjusted net attendance rate, one year before the official primary entry age",Total,8,3,1,8,3,3,Angola
+3,"Adjusted net attendance rate, one year before the official primary entry age",Female,9,3,3,9,3,3,Angola
+5,"Adjusted net attendance rate for children of primary school age",Male,313,3,5,304,3,3,Angola
+4,"Adjusted net attendance rate for children of primary school age",Total,314,3,4,305,3,3,Angola
+6,"Adjusted net attendance rate for children of primary school age",Female,315,3,6,306,3,3,Angola
+8,"Adjusted net attendance rate for adolescents of lower secondary school age",Male,662,3,8,605,3,3,Angola
+7,"Adjusted net attendance rate for adolescents of lower secondary school age",Total,663,3,7,606,3,3,Angola
+9,"Adjusted net attendance rate for adolescents of lower secondary school age",Female,664,3,9,607,3,3,Angola
+11,"Adjusted net attendance rate for youth of upper secondary school age",Male,974,3,11,891,3,3,Angola
+10,"Adjusted net attendance rate for youth of upper secondary school age",Total,975,3,10,892,3,3,Angola
+12,"Adjusted net attendance rate for youth of upper secondary school age",Female,976,3,12,893,3,3,Angola
+14,"Completion rate for adolescents of lower secondary school age",Male,1283,3,14,1189,3,3,Angola
+13,"Completion rate for adolescents of lower secondary school age",Total,1284,3,13,1190,3,3,Angola
+15,"Completion rate for adolescents of lower secondary school age",Female,1285,3,15,1191,3,3,Angola
+17,"Completion rate for youth of upper secondary education school age",Male,1598,3,17,1486,3,3,Angola
+16,"Completion rate for youth of upper secondary education school age",Total,1599,3,16,1487,3,3,Angola
+18,"Completion rate for youth of upper secondary education school age",Female,1600,3,18,1488,3,3,Angola
+20,"Out-of-school rate for adolescents of lower secondary school age",Male,1913,3,20,1789,3,3,Angola
+19,"Out-of-school rate for adolescents of lower secondary school age",Total,1914,3,19,1651,3,3,Angola
+21,"Out-of-school rate for adolescents of lower secondary school age",Female,1915,3,21,1790,3,3,Angola
+23,"Completion rate for children of primary school age",Male,2234,3,23,2086,3,3,Angola
+22,"Completion rate for children of primary school age",Total,2235,3,22,2087,3,3,Angola
+24,"Completion rate for children of primary school age",Female,2236,3,24,2088,3,3,Angola
+27,"Out-of-school rate for youth of upper secondary school age",Male,2549,3,27,2375,3,3,Angola
+25,"Out-of-school rate for youth of upper secondary school age",Total,2550,3,25,2376,3,3,Angola
+26,"Out-of-school rate for youth of upper secondary school age",Female,2551,3,26,2377,3,3,Angola
+30,"Out-of-school rate for children of primary school age",Male,2864,3,30,1349,3,3,Angola
+28,"Out-of-school rate for children of primary school age",Total,2865,3,28,2666,3,3,Angola
+29,"Out-of-school rate for children of primary school age",Female,2866,3,29,2667,3,3,Angola
+31,"Youth literacy rate for 15-24 years",Total,3230,3,31,2960,20,3,Angola
+31,"Youth literacy rate for 15-24 years",Total,3231,3,31,2961,20,3,Angola
+32,"Youth literacy rate for 15-24 years",Female,3232,3,32,2962,20,3,Angola
+32,"Youth literacy rate for 15-24 years",Female,3233,3,32,2963,20,3,Angola
+33,"Youth literacy rate for 15-24 years",Male,3234,3,33,2964,20,3,Angola
+33,"Youth literacy rate for 15-24 years",Male,3235,3,33,2965,20,3,Angola
+3,"Adjusted net attendance rate, one year before the official primary entry age",Female,10,4,3,10,4,4,Argentina
+1,"Adjusted net attendance rate, one year before the official primary entry age",Total,11,4,1,11,4,4,Argentina
+2,"Adjusted net attendance rate, one year before the official primary entry age",Male,12,4,2,12,4,4,Argentina
+6,"Adjusted net attendance rate for children of primary school age",Female,316,4,6,307,4,4,Argentina
+4,"Adjusted net attendance rate for children of primary school age",Total,317,4,4,308,4,4,Argentina
+5,"Adjusted net attendance rate for children of primary school age",Male,318,4,5,309,4,4,Argentina
+9,"Adjusted net attendance rate for adolescents of lower secondary school age",Female,665,4,9,608,4,4,Argentina
+7,"Adjusted net attendance rate for adolescents of lower secondary school age",Total,666,4,7,609,4,4,Argentina
+8,"Adjusted net attendance rate for adolescents of lower secondary school age",Male,667,4,8,610,4,4,Argentina
+12,"Adjusted net attendance rate for youth of upper secondary school age",Female,977,4,12,894,4,4,Argentina
+10,"Adjusted net attendance rate for youth of upper secondary school age",Total,978,4,10,609,4,4,Argentina
+11,"Adjusted net attendance rate for youth of upper secondary school age",Male,979,4,11,895,4,4,Argentina
+15,"Completion rate for adolescents of lower secondary school age",Female,1286,4,15,1192,4,4,Argentina
+13,"Completion rate for adolescents of lower secondary school age",Total,1287,4,13,1193,4,4,Argentina
+14,"Completion rate for adolescents of lower secondary school age",Male,1288,4,14,1194,4,4,Argentina
+18,"Completion rate for youth of upper secondary education school age",Female,1601,4,18,1489,4,4,Argentina
+16,"Completion rate for youth of upper secondary education school age",Total,1602,4,16,1490,4,4,Argentina
+17,"Completion rate for youth of upper secondary education school age",Male,1603,4,17,1491,4,4,Argentina
+21,"Out-of-school rate for adolescents of lower secondary school age",Female,1916,4,21,1791,4,4,Argentina
+19,"Out-of-school rate for adolescents of lower secondary school age",Total,1917,4,19,1792,4,4,Argentina
+20,"Out-of-school rate for adolescents of lower secondary school age",Male,1918,4,20,1793,4,4,Argentina
+24,"Completion rate for children of primary school age",Female,2237,4,24,2089,4,4,Argentina
+22,"Completion rate for children of primary school age",Total,2238,4,22,1515,4,4,Argentina
+23,"Completion rate for children of primary school age",Male,2239,4,23,2090,4,4,Argentina
+26,"Out-of-school rate for youth of upper secondary school age",Female,2552,4,26,2378,4,4,Argentina
+27,"Out-of-school rate for youth of upper secondary school age",Male,2553,4,27,2379,4,4,Argentina
+25,"Out-of-school rate for youth of upper secondary school age",Total,2554,4,25,2380,4,4,Argentina
+29,"Out-of-school rate for children of primary school age",Female,2867,4,29,2668,4,4,Argentina
+28,"Out-of-school rate for children of primary school age",Total,2868,4,28,2669,4,4,Argentina
+30,"Out-of-school rate for children of primary school age",Male,2869,4,30,2670,4,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3242,4,33,2972,20,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3243,4,33,2973,20,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3244,4,33,2974,20,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3245,4,33,2975,20,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3246,4,33,2976,20,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3247,4,33,2977,20,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3248,4,33,2978,20,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3249,4,33,2979,20,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3250,4,33,2980,20,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3251,4,33,2981,20,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3252,4,33,2982,20,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3253,4,33,2983,20,4,Argentina
+33,"Youth literacy rate for 15-24 years",Male,3254,4,33,2984,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3255,4,32,2985,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3256,4,32,2986,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3257,4,32,2987,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3258,4,32,2988,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3259,4,32,2989,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3260,4,32,2990,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3261,4,32,2991,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3262,4,32,2992,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3263,4,32,2993,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3264,4,32,2994,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3265,4,32,2995,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3266,4,32,2996,20,4,Argentina
+32,"Youth literacy rate for 15-24 years",Female,3267,4,32,2997,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3268,4,31,2998,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3269,4,31,2999,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3270,4,31,3000,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3271,4,31,3001,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3272,4,31,3002,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3273,4,31,3003,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3274,4,31,3004,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3275,4,31,3005,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3276,4,31,3006,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3277,4,31,3007,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3278,4,31,3008,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3279,4,31,3009,20,4,Argentina
+31,"Youth literacy rate for 15-24 years",Total,3280,4,31,3010,20,4,Argentina
+1,"Adjusted net attendance rate, one year before the official primary entry age",Total,13,5,1,13,3,5,Armenia
+3,"Adjusted net attendance rate, one year before the official primary entry age",Female,14,5,3,14,3,5,Armenia
+2,"Adjusted net attendance rate, one year before the official primary entry age",Male,15,5,2,15,3,5,Armenia
+4,"Adjusted net attendance rate for children of primary school age",Total,319,5,4,310,3,5,Armenia
+6,"Adjusted net attendance rate for children of primary school age",Female,320,5,6,310,3,5,Armenia
+5,"Adjusted net attendance rate for children of primary school age",Male,321,5,5,311,3,5,Armenia
+7,"Adjusted net attendance rate for adolescents of lower secondary school age",Total,668,5,7,611,3,5,Armenia
+9,"Adjusted net attendance rate for adolescents of lower secondary school age",Female,669,5,9,612,3,5,Armenia
+8,"Adjusted net attendance rate for adolescents of lower secondary school age",Male,670,5,8,613,3,5,Armenia
+10,"Adjusted net attendance rate for youth of upper secondary school age",Total,980,5,10,896,3,5,Armenia
+12,"Adjusted net attendance rate for youth of upper secondary school age",Female,981,5,12,897,3,5,Armenia
+11,"Adjusted net attendance rate for youth of upper secondary school age",Male,982,5,11,898,3,5,Armenia
+13,"Completion rate for adolescents of lower secondary school age",Total,1289,5,13,1195,3,5,Armenia
+14,"Completion rate for adolescents of lower secondary school age",Male,1290,5,14,1196,3,5,Armenia
+15,"Completion rate for adolescents of lower secondary school age",Female,1291,5,15,1197,3,5,Armenia
+16,"Completion rate for youth of upper secondary education school age",Total,1604,5,16,1492,3,5,Armenia
+17,"Completion rate for youth of upper secondary education school age",Male,1605,5,17,1493,3,5,Armenia
+18,"Completion rate for youth of upper secondary education school age",Female,1606,5,18,1494,3,5,Armenia
+19,"Out-of-school rate for adolescents of lower secondary school age",Total,1919,5,19,1794,3,5,Armenia
+20,"Out-of-school rate for adolescents of lower secondary school age",Male,1920,5,20,1795,3,5,Armenia
+21,"Out-of-school rate for adolescents of lower secondary school age",Female,1921,5,21,1796,3,5,Armenia
+22,"Completion rate for children of primary school age",Total,2240,5,22,2091,3,5,Armenia
+23,"Completion rate for children of primary school age",Male,2241,5,23,2092,3,5,Armenia
+24,"Completion rate for children of primary school age",Female,2242,5,24,2093,3,5,Armenia
+25,"Out-of-school rate for youth of upper secondary school age",Total,2555,5,25,2381,3,5,Armenia
+27,"Out-of-school rate for youth of upper secondary school age",Male,2556,5,27,2382,3,5,Armenia
+26,"Out-of-school rate for youth of upper secondary school age",Female,2557,5,26,2383,3,5,Armenia
+28,"Out-of-school rate for children of primary school age",Total,2870,5,28,2671,3,5,Armenia
+30,"Out-of-school rate for children of primary school age",Male,2871,5,30,2672,3,5,Armenia
+29,"Out-of-school rate for children of primary school age",Female,2872,5,29,2673,3,5,Armenia
+31,"Youth literacy rate for 15-24 years",Total,3281,5,31,3011,20,5,Armenia
+31,"Youth literacy rate for 15-24 years",Total,3282,5,31,3012,20,5,Armenia
+31,"Youth literacy rate for 15-24 years",Total,3283,5,31,3013,20,5,Armenia
+31,"Youth literacy rate for 15-24 years",Total,3284,5,31,3014,20,5,Armenia
+33,"Youth literacy rate for 15-24 years",Male,3285,5,33,3015,20,5,Armenia
+33,"Youth literacy rate for 15-24 years",Male,3286,5,33,3016,20,5,Armenia
+33,"Youth literacy rate for 15-24 years",Male,3287,5,33,3017,20,5,Armenia
+33,"Youth literacy rate for 15-24 years",Male,3288,5,33,3018,20,5,Armenia
+32,"Youth literacy rate for 15-24 years",Female,3289,5,32,3019,20,5,Armenia
+32,"Youth literacy rate for 15-24 years",Female,3290,5,32,3020,20,5,Armenia
+32,"Youth literacy rate for 15-24 years",Female,3291,5,32,3021,20,5,Armenia
+32,"Youth literacy rate for 15-24 years",Female,3292,5,32,3022,20,5,Armenia

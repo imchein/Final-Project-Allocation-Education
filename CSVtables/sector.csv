@@ -1,0 +1,943 @@
+sector_id,new_sector1,new_sector2,new_sector3,new_sector4,new_sector5,projectid
+1,"Workforce Development and Vocational Education","Adult; Basic and Continuing Education","Social Protection","Secondary Education","Public Administration - Social Protection",804
+2,"Secondary Education","Primary Education","Public Administration - Education",,,194
+3,"Early Childhood Education","Primary Education",,,,508
+4,"Secondary Education","Primary Education","Public Administration - Education",,,936
+5,"Sub-National Government",Health,"Secondary Education","Primary Education",,902
+6,"Primary Education","Secondary Education","Public Administration - Education","Early Childhood Education",,113
+7,"Secondary Education","Public Administration - Education",,,,768
+8,"Early Childhood Education","Secondary Education","Primary Education","Public Administration - Education",,551
+9,"Tertiary Education","ICT Services",,,,520
+10,"Primary Education","Secondary Education","Other Education","Public Administration - Education",,234
+11,"Secondary Education","Public Administration - Education","Primary Education","Early Childhood Education",,497
+12,"Primary Education","Secondary Education","Public Administration - Education","Early Childhood Education",,456
+13,"Early Childhood Education","Public Administration - Education",,,,934
+14,"Secondary Education","Primary Education","Other Education","Public Administration - Education",,686
+15,"Primary Education","Public Administration - Education",,,,511
+16,"Primary Education","Public Administration - Education",,,,844
+17,"Secondary Education","Primary Education","Public Administration - Education",,,864
+18,"Early Childhood Education",,,,,199
+19,"Primary Education","Other Education","Secondary Education","Early Childhood Education",,696
+20,"Other Education",,,,,560
+21,"Secondary Education","Primary Education","Early Childhood Education","Public Administration - Education",,604
+22,"Primary Education","Secondary Education","Public Administration - Education",,,498
+23,"Public Administration - Education","Primary Education","Secondary Education",,,152
+24,"Primary Education","Secondary Education",Health,"Social Protection",,608
+25,Health,"Sub-National Government","Other Agriculture; Fishing and Forestry","Other Water Supply; Sanitation and Waste Management","Secondary Education",610
+26,"Sub-National Government","Primary Education","Urban Transport",,,58
+27,"Tertiary Education","Central Government (Central Agencies)","Other Education","Social Protection",,122
+28,"Other Education","Tertiary Education","Public Administration - Education",,,27
+29,"Secondary Education","Early Childhood Education","Primary Education","Public Administration - Education",,848
+30,"Primary Education","Secondary Education","Public Administration - Education","Early Childhood Education",,846
+31,"Other Education","Public Administration - Education",,,,483
+32,"Other Education","Primary Education",,,,273
+33,"Secondary Education",,,,,827
+34,"Primary Education","Public Administration - Education",,,,529
+35,"Primary Education","Secondary Education","Other Education","Adult; Basic and Continuing Education",,396
+36,"Early Childhood Education","Public Administration - Education",,,,200
+37,"Workforce Development and Vocational Education","Other Education",,,,929
+38,"Early Childhood Education",,,,,416
+39,"Other Education",,,,,460
+40,"Primary Education",,,,,482
+41,"Primary Education","Public Administration - Education","Sub-National Government",,,558
+42,"Early Childhood Education","Primary Education",,,,746
+43,"Primary Education","Secondary Education","Public Administration - Education",,,789
+44,"Primary Education","Secondary Education",,,,413
+45,"Primary Education","Secondary Education",,,,338
+46,"Primary Education","Early Childhood Education","Adult; Basic and Continuing Education",,,858
+47,"Primary Education",,,,,6
+48,"Secondary Education","Primary Education","Early Childhood Education","Public Administration - Education",,41
+49,"Primary Education","Early Childhood Education","Public Administration - Education",,,521
+50,"Early Childhood Education","Public Administration - Education","Primary Education","Secondary Education",,522
+51,"Secondary Education","Early Childhood Education","Public Administration - Education",,,453
+52,"Primary Education",,,,,895
+53,"Primary Education","Other Education","Secondary Education","Early Childhood Education",,785
+54,"Other Education","Primary Education","Secondary Education",,,863
+55,"Primary Education","Early Childhood Education","Public Administration - Education",,,721
+56,"Secondary Education","Public Administration - Education",,,,411
+57,"Primary Education",,,,,459
+58,"Early Childhood Education","Other Education","Primary Education","Secondary Education",,130
+59,"Early Childhood Education","Public Administration - Education","Primary Education",,,204
+60,"Early Childhood Education","Public Administration - Education",,,,485
+61,"Workforce Development and Vocational Education","Public Administration - Education",,,,562
+62,"Primary Education","Secondary Education",,,,112
+63,"Public Administration - Education","Primary Education","Secondary Education",,,496
+64,"Other Education",,,,,19
+65,"Primary Education",,,,,119
+66,"Secondary Education","Public Administration - Education","Tertiary Education","Primary Education",,516
+67,"Secondary Education",,,,,891
+68,"Secondary Education","Social Protection","Public Administration - Education",,,776
+69,"Other Industry; Trade and Services","Other Education","Sub-National Government","Public Administration - Water; Sanitation and Waste Management","Other Water Supply; Sanitation and Waste Management",826
+70,"Other Information and Communications Technologies","Public Administration - Education","Primary Education","Secondary Education","Tertiary Education",356
+71,"Primary Education","Public Administration - Education",,,,350
+72,"Central Government (Central Agencies)","Other Education",Health,Mining,"Other Industry; Trade and Services",492
+73,"Primary Education",,,,,37
+74,"Secondary Education","Primary Education","Early Childhood Education","Public Administration - Education",,412
+75,"Primary Education","Public Administration - Education","Secondary Education","Tertiary Education",,137
+76,Health,"Other Education","Public Administration - Social Protection","Sub-National Government",,701
+77,"Other Education","Sub-National Government","Primary Education","Secondary Education","Tertiary Education",737
+78,"Primary Education","Secondary Education","Public Administration - Education","Tertiary Education",,514
+79,"Secondary Education","Primary Education","Other Education","Early Childhood Education","Adult; Basic and Continuing Education",552
+80,"Public Administration - Education","Primary Education","Tertiary Education","Other Education",,935
+81,"Secondary Education","Early Childhood Education",,,,303
+82,"Other Education","Public Administration - Education",,,,833
+83,"Primary Education","Secondary Education","Workforce Development and Vocational Education",,,557
+84,"Primary Education","Secondary Education","Public Administration - Education",,,600
+85,"Primary Education","Secondary Education","Public Administration - Education","Sub-National Government",,780
+86,"Early Childhood Education",,,,,918
+87,"Public Administration - Education","Other Education",,,,524
+88,"Public Administration - Education","Primary Education","Secondary Education","Early Childhood Education",,86
+89,"Primary Education","Public Administration - Education","Tertiary Education",,,919
+90,"Primary Education","Social Protection","Public Administration - Education","Workforce Development and Vocational Education","Tertiary Education",49
+91,"Primary Education","Early Childhood Education","Public Administration - Education",,,845
+92,"Rural and Inter-Urban Roads","Public Administration - Transportation",,,,118
+93,"Social Protection","Public Administration - Social Protection",,,,330
+94,"Social Protection","Public Administration - Social Protection","Primary Education",Health,,661
+95,"Other Education",,,,,394
+96,"Secondary Education","Early Childhood Education",,,,484
+97,"Central Government (Central Agencies)","ICT Infrastructure","Primary Education","Energy Transmission and Distribution","Secondary Education",393
+98,"Other Education",,,,,860
+99,"Early Childhood Education","Primary Education","Sub-National Government","Urban Transport",,687
+100,"Early Childhood Education","Public Administration - Education",,,,506
+101,"Primary Education","Secondary Education","Other Education",,,126
+102,"Secondary Education",,,,,461
+103,"Primary Education",,,,,527
+104,"Secondary Education","Primary Education","Public Administration - Education",,,676
+105,"Secondary Education","Primary Education","Early Childhood Education","Adult; Basic and Continuing Education",,363
+106,"Secondary Education","Workforce Development and Vocational Education",,,,753
+107,"Other Agriculture; Fishing and Forestry","Primary Education","Social Protection","Central Government (Central Agencies)","Secondary Education",609
+108,"Primary Education","Early Childhood Education",,,,176
+109,"Early Childhood Education",,,,,526
+110,"Early Childhood Education",,,,,523
+111,"Other Education","Primary Education","Secondary Education",,,940
+112,"Primary Education",,,,,64
+113,"Secondary Education",,,,,712
+114,"Primary Education",,,,,450
+115,"Central Government (Central Agencies)","Other Education",Health,"Other Industry; Trade and Services",,607
+116,"Other Public Administration","Social Protection",Health,"Other Education",,754
+117,"Central Government (Central Agencies)","Other Agriculture; Fishing and Forestry","Social Protection",Mining,"Other Energy and Extractives",502
+118,"Primary Education","Secondary Education","Workforce Development and Vocational Education","Public Administration - Education","Early Childhood Education",507
+119,"Primary Education",,,,,457
+120,"Primary Education","Secondary Education","Public Administration - Education",,,589
+121,"Early Childhood Education","Public Administration - Education",,,,361
+122,"Primary Education","Secondary Education","Public Administration - Education","Early Childhood Education","Adult; Basic and Continuing Education",362
+123,"Primary Education","Public Administration - Education",,,,679
+124,"Other Education",,,,,110
+125,"Other Education",,,,,912
+126,"Social Protection","Other Education",Health,"Public Administration - Social Protection",,595
+127,"Adult; Basic and Continuing Education","Public Administration - Education","Secondary Education","ICT Services","Public Administration - Information and Communications Technologies",380
+128,"Adult; Basic and Continuing Education","Public Administration - Education",,,,892
+129,"Social Protection",Health,"Other Education",,,748
+130,Health,"Public Administration - Education","Social Protection","Public Administration - Health","Public Administration - Social Protection",345
+131,"Tertiary Education","Public Administration - Education","ICT Services","Public Administration - Information and Communications Technologies","Other Information and Communications Technologies",455
+132,"Other Education",,,,,655
+133,"Primary Education","Public Administration - Education","Early Childhood Education","Adult; Basic and Continuing Education",,852
+134,"Primary Education","Public Administration - Education","Secondary Education","Early Childhood Education",,414
+135,"Other Public Administration","Public Administration - Education","Public Administration - Health",Health,"ICT Services",117
+136,"Primary Education",,,,,324
+137,"Workforce Development and Vocational Education",,,,,594
+138,"Primary Education","Early Childhood Education",,,,189
+139,"Primary Education","Public Administration - Education","Secondary Education","Tertiary Education","Early Childhood Education",876
+140,"Central Government (Central Agencies)","Other Non-bank Financial Institutions","Other Agriculture; Fishing and Forestry","Primary Education",Health,917
+141,"Other Education","Primary Education","Public Administration - Education",,,866
+142,"Primary Education","Public Administration - Education","Secondary Education",,,665
+143,"Primary Education","Early Childhood Education","Secondary Education","Public Administration - Education",,728
+144,"Primary Education","Secondary Education",,,,373
+145,"Primary Education","Secondary Education",,,,462
+146,Health,"Central Government (Central Agencies)","Other Education",Mining,"Agricultural markets; commercialization and agri-business",503
+147,"Primary Education","Public Administration - Education","Social Protection",,,321
+148,"Public Administration - Education",,,,,232
+149,"Tertiary Education","Public Administration - Education",,,,820
+150,"Central Government (Central Agencies)","Primary Education","Other Transportation","ICT Infrastructure","Banking Institutions",725
+151,"Primary Education",,,,,67
+152,"Other Education","Public Administration - Education","Primary Education",,,360
+153,"Primary Education","Early Childhood Education","Public Administration - Education",,,150
+154,"Primary Education",,,,,26
+155,Health,"Primary Education","Public Administration - Health","Central Government (Central Agencies)","Public Administration - Education",16
+156,"Primary Education","Secondary Education","Public Administration - Education","Tertiary Education",,188
+157,"Primary Education","Public Administration - Education",,,,487
+158,"Primary Education","Secondary Education","Tertiary Education","Workforce Development and Vocational Education","Other Education",468
+159,"Primary Education",,,,,23
+160,"Primary Education","Secondary Education","Early Childhood Education",,,224
+161,"Primary Education","Public Administration - Education",,,,320
+162,"Primary Education","Secondary Education","Public Administration - Education","Early Childhood Education",,872
+163,"Primary Education","Public Administration - Education",,,,781
+164,"Other Education",,,,,847
+165,"Primary Education","Secondary Education","Public Administration - Education","Early Childhood Education","Adult; Basic and Continuing Education",364
+166,"Primary Education","Public Administration - Education","Public Administration - Social Protection","Workforce Development and Vocational Education",,693
+167,"Public Administration - Education","Other Education","Secondary Education",,,601
+168,Health,"Public Administration - Education","Social Protection","Public Administration - Health","Public Administration - Social Protection",197
+169,"Primary Education","Secondary Education","Early Childhood Education","Public Administration - Education","Workforce Development and Vocational Education",740
+170,"Other Education","Social Protection","Public Administration - Health",Health,,715
+171,"Primary Education","Secondary Education",,,,2
+172,"Primary Education","Public Administration - Education",,,,87
+173,"Public Administration - Transportation","Public Administration - Health","Public Administration - Education","Other Education",Health,365
+174,"Primary Education","Secondary Education",,,,409
+175,"Secondary Education","Public Administration - Education","Tertiary Education",,,618
+176,"Primary Education","Public Administration - Education","Social Protection",,,425
+177,"Central Government (Central Agencies)","Agricultural markets; commercialization and agri-business","Other Energy and Extractives",Health,"Water Supply",370
+178,"Primary Education",,,,,727
+179,"Public Administration - Education",,,,,310
+180,"Social Protection",Health,"Primary Education","Secondary Education",,842
+181,"Primary Education","Secondary Education","Public Administration - Education","Tertiary Education",,404
+182,"Primary Education",,,,,861
+183,"Primary Education","Early Childhood Education",,,,454
+184,"Primary Education","Secondary Education","Public Administration - Education",,,397
+185,"Other Education",,,,,135
+186,"Primary Education","Secondary Education",,,,56
+187,"Public Administration - Social Protection","Public Administration - Education","Public Administration - Health",,,745
+188,"Primary Education","Secondary Education","Public Administration - Education",,,786
+189,"Primary Education","Secondary Education","Public Administration - Education","Adult; Basic and Continuing Education","Workforce Development and Vocational Education",530
+190,"Secondary Education","Public Administration - Education",,,,68
+191,"Primary Education","Secondary Education","Public Administration - Education","Workforce Development and Vocational Education","Adult; Basic and Continuing Education",226
+192,"Primary Education","Other Agriculture; Fishing and Forestry",Health,"Social Protection","Other Public Administration",853
+193,"Primary Education","Secondary Education","Other Public Administration","Adult; Basic and Continuing Education",,819
+194,"Primary Education",,,,,577
+195,"Central Government (Central Agencies)",Health,"Sub-National Government","Other Industry; Trade and Services","Secondary Education",637
+196,"Primary Education","Central Government (Central Agencies)",,,,458
+197,"Primary Education","Central Government (Central Agencies)",,,,339
+198,"Tertiary Education","Central Government (Central Agencies)","Sub-National Government",,,422
+199,"Sub-National Government","Central Government (Central Agencies)","Primary Education","Secondary Education","Early Childhood Education",143
+200,"Primary Education","Early Childhood Education","Central Government (Central Agencies)","Sub-National Government",,480
+201,"Primary Education","Central Government (Central Agencies)",,,,190
+202,"Primary Education",,,,,716
+203,"Other Public Administration","Other Water Supply; Sanitation and Waste Management",Health,"Other Education","Irrigation and Drainage",383
+204,"Other Education",,,,,896
+205,"Sub-National Government","Other Education","Agricultural markets; commercialization and agri-business","Rural and Inter-Urban Roads","Other Industry; Trade and Services",451
+206,Health,"Central Government (Central Agencies)","Other Education","Social Protection",,881
+207,"Primary Education","Secondary Education","Central Government (Central Agencies)","Sub-National Government","Tertiary Education",467
+208,"Primary Education","Early Childhood Education","Adult; Basic and Continuing Education","Sub-National Government","Social Protection",318
+209,"Secondary Education","Sub-National Government","Workforce Development and Vocational Education","Tertiary Education",,39
+210,"Early Childhood Education","Secondary Education","Primary Education","Central Government (Central Agencies)",,69
+211,"Central Government (Central Agencies)",Health,"Other Education","Other Water Supply; Sanitation and Waste Management","Sub-National Government",624
+212,"Tertiary Education","Central Government (Central Agencies)","Sub-National Government",,,50
+213,"Other Education",,,,,181
+214,"Workforce Development and Vocational Education","Other Public Administration","Social Protection","Adult; Basic and Continuing Education","Other Industry; Trade and Services",15
+215,"Secondary Education","Central Government (Central Agencies)","Tertiary Education","Social Protection",,888
+216,"Other Education","Sub-National Government",,,,788
+217,"Other Education",,,,,71
+218,"Primary Education","Central Government (Central Agencies)","Tertiary Education","Other Education",,160
+219,"Other Education","Secondary Education","Primary Education","Workforce Development and Vocational Education","Tertiary Education",316
+220,"Primary Education",,,,,225
+221,"Early Childhood Education","Primary Education",,,,319
+222,"Other Education",,,,,237
+223,Health,"Primary Education","Other Education","Water Supply","Other Water Supply; Sanitation and Waste Management",621
+224,"Primary Education","Central Government (Central Agencies)","Social Protection","Tertiary Education",,423
+225,"Central Government (Central Agencies)","Primary Education","Public Administration - Social Protection","Public Administration - Health","Other Energy and Extractives",582
+226,"Primary Education",,,,,504
+227,"Central Government (Central Agencies)","Primary Education","Secondary Education","Tertiary Education",,309
+228,"Primary Education","Central Government (Central Agencies)","Tertiary Education","Secondary Education","Adult; Basic and Continuing Education",304
+229,"Other Education",,,,,196
+230,"Secondary Education","ICT Services","Public Administration - Information and Communications Technologies","Other Information and Communications Technologies",,851
+231,"Central Government (Central Agencies)","Primary Education","Secondary Education","Other Education","Sub-National Government",675
+232,"Early Childhood Education","Central Government (Central Agencies)","Sub-National Government",,,205
+233,"Primary Education","Social Protection",,,,593
+234,"Primary Education","Secondary Education",,,,549
+235,"Other Education","Sub-National Government",,,,671
+236,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",222
+237,"Primary Education","Secondary Education","Other Education","Adult; Basic and Continuing Education","Other Public Administration",877
+238,"Early Childhood Education",,,,,325
+239,"Primary Education",,,,,862
+240,"Other Education",,,,,156
+241,"Tertiary Education",,,,,25
+242,"Other Education",,,,,532
+243,"Central Government (Central Agencies)","Secondary Education","Sub-National Government","Primary Education",,677
+244,"Secondary Education","Central Government (Central Agencies)","Workforce Development and Vocational Education",,,288
+245,"Other Education",,,,,932
+246,"Primary Education","Secondary Education","Tertiary Education","Other Public Administration","Adult; Basic and Continuing Education",822
+247,"Primary Education","Secondary Education","Early Childhood Education","Central Government (Central Agencies)",,519
+248,"Other Education","Secondary Education",,,,326
+249,"Secondary Education","Primary Education","Central Government (Central Agencies)",,,757
+250,"Law and Justice","Central Government (Central Agencies)","Primary Education","Energy Transmission and Distribution","Other Industry; Trade and Services",153
+251,"Central Government (Central Agencies)","Other Education","Public Administration - Health","Other Water Supply; Sanitation and Waste Management",Health,501
+252,"Rural and Inter-Urban Roads",,,,,580
+253,"Other Education",Health,"Social Protection","Public Administration - Health","Central Government (Central Agencies)",905
+254,"Central Government (Central Agencies)","Other Agriculture; Fishing and Forestry","Other Education",Health,,556
+255,"Secondary Education","Central Government (Central Agencies)","Sub-National Government",,,353
+256,"Secondary Education","Social Protection","Primary Education","Other Public Administration","Tertiary Education",81
+257,"Other Education",,,,,327
+258,"Secondary Education","Workforce Development and Vocational Education","Central Government (Central Agencies)",,,773
+259,"Secondary Education","Sub-National Government","Primary Education","Central Government (Central Agencies)","Early Childhood Education",528
+260,"Primary Education","Secondary Education","Central Government (Central Agencies)",,,706
+261,"Other Education",,,,,382
+262,"Central Government (Central Agencies)","Law and Justice","Primary Education",Health,"Other Agriculture; Fishing and Forestry",890
+263,"Primary Education","Secondary Education",,,,343
+264,"Primary Education","Secondary Education","Central Government (Central Agencies)","Sub-National Government","Workforce Development and Vocational Education",694
+265,"Primary Education",,,,,398
+266,"Secondary Education","Central Government (Central Agencies)","Public Administration - Social Protection","Sub-National Government",,289
+267,"Primary Education","Secondary Education","Sub-National Government","Central Government (Central Agencies)",,255
+268,"Primary Education","Early Childhood Education","Adult; Basic and Continuing Education","Sub-National Government","Social Protection",323
+269,"Secondary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",,765
+270,"Other Education",Health,"Social Protection","Central Government (Central Agencies)",,815
+271,"Secondary Education","Primary Education",,,,473
+272,"Other Education",,,,,930
+273,Health,"Primary Education","Central Government (Central Agencies)","Water Supply",Forestry,622
+274,"Primary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",,295
+275,"Primary Education","Secondary Education",,,,854
+276,"Secondary Education","Primary Education","Central Government (Central Agencies)","Public Administration - Social Protection","Social Protection",252
+277,"Central Government (Central Agencies)",Health,"Other Education","Oil and Gas","Water Supply",669
+278,"Other Education",,,,,942
+279,"Secondary Education","Primary Education","Sub-National Government",,,128
+280,"Primary Education","Adult; Basic and Continuing Education","Central Government (Central Agencies)",,,84
+281,"Other Education",,,,,148
+282,"Primary Education",,,,,385
+283,"Primary Education","Secondary Education","Other Education",,,354
+284,Health,"Social Protection","Central Government (Central Agencies)",,,42
+285,"Central Government (Central Agencies)","Sub-National Government",,,,546
+286,"Central Government (Central Agencies)","Early Childhood Education","Tertiary Education","Secondary Education","Primary Education",707
+287,"Primary Education","Central Government (Central Agencies)","Secondary Education","Tertiary Education","Sub-National Government",283
+288,"Primary Education","Early Childhood Education","Central Government (Central Agencies)",,,584
+289,"Primary Education","Secondary Education","Other Public Administration",,,708
+290,"Primary Education",,,,,611
+291,"Primary Education","Central Government (Central Agencies)","Social Protection","Secondary Education","Workforce Development and Vocational Education",298
+292,"Other Education","Primary Education",,,,408
+293,"Primary Education","Secondary Education","Central Government (Central Agencies)","Sub-National Government",,903
+294,"Early Childhood Education","Social Protection","Central Government (Central Agencies)",,,203
+295,"Primary Education","Secondary Education","Early Childhood Education","Central Government (Central Agencies)","Sub-National Government",70
+296,"Rural and Inter-Urban Roads",,,,,545
+297,"Other Energy and Extractives","Other Public Administration","Other Education","ICT Infrastructure",,230
+298,"Secondary Education","Tertiary Education","Central Government (Central Agencies)",,,719
+299,"Secondary Education","Tertiary Education","Central Government (Central Agencies)",,,720
+300,"Rural and Inter-Urban Roads",,,,,3
+301,"Primary Education","Tertiary Education","Secondary Education","Other Public Administration","Early Childhood Education",73
+302,"Tertiary Education","Workforce Development and Vocational Education","Central Government (Central Agencies)",,,432
+303,"Primary Education","Tertiary Education","Central Government (Central Agencies)",,,658
+304,"Primary Education","Secondary Education","Central Government (Central Agencies)",,,386
+305,"Other Education",,,,,688
+306,"Rural and Inter-Urban Roads",,,,,726
+307,"Tertiary Education","Other Education",,,,31
+308,"Primary Education","Sub-National Government","Tertiary Education","Early Childhood Education",,685
+309,"Adult; Basic and Continuing Education",,,,,838
+310,"Other Education","Central Government (Central Agencies)","Secondary Education","Workforce Development and Vocational Education",,216
+311,"Central Government (Central Agencies)","Primary Education","Secondary Education","Tertiary Education","Sub-National Government",308
+312,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",290
+313,"Primary Education","Secondary Education","Central Government (Central Agencies)",,,61
+314,"Tertiary Education","Secondary Education","Primary Education","Central Government (Central Agencies)","Sub-National Government",233
+315,"Primary Education","Central Government (Central Agencies)","Tertiary Education","Workforce Development and Vocational Education",,254
+316,"Central Government (Central Agencies)","Primary Education","Tertiary Education","Secondary Education","Sub-National Government",218
+317,"Primary Education","Central Government (Central Agencies)","Other Industry; Trade and Services",,,261
+318,"Primary Education","Tertiary Education","Sub-National Government","Central Government (Central Agencies)",Health,751
+319,Health,"Social Protection","Primary Education","Central Government (Central Agencies)","Tertiary Education",140
+320,"Primary Education","Social Protection","Tertiary Education","Central Government (Central Agencies)",,797
+321,"Other Education","Central Government (Central Agencies)","Sub-National Government",,,256
+322,"Primary Education","Workforce Development and Vocational Education","Central Government (Central Agencies)","Other Education",,129
+323,"Tertiary Education","Central Government (Central Agencies)","Primary Education","Secondary Education",,262
+324,"Primary Education","Secondary Education","Workforce Development and Vocational Education","Other Education","Central Government (Central Agencies)",229
+325,"Secondary Education","Social Protection","Sub-National Government","Tertiary Education","Central Government (Central Agencies)",767
+326,"Tertiary Education","Primary Education","Central Government (Central Agencies)",,,306
+327,"Primary Education","Central Government (Central Agencies)","Early Childhood Education",,,80
+328,"Tertiary Education","Central Government (Central Agencies)","Workforce Development and Vocational Education","Law and Justice",,141
+329,"Primary Education","Early Childhood Education","Central Government (Central Agencies)","Tertiary Education",,899
+330,"Primary Education","Tertiary Education","Central Government (Central Agencies)",,,89
+331,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)",,764
+332,"Primary Education","Sub-National Government","Central Government (Central Agencies)","Tertiary Education",,730
+333,"Primary Education","Tertiary Education",,,,277
+334,"Primary Education","Central Government (Central Agencies)","Tertiary Education","Sub-National Government","Workforce Development and Vocational Education",243
+335,"Primary Education","Sub-National Government","Social Protection","Early Childhood Education",,177
+336,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)",,388
+337,"Secondary Education","Primary Education","Central Government (Central Agencies)","Tertiary Education","Sub-National Government",606
+338,"Primary Education","Social Protection","Tertiary Education","Sub-National Government",,568
+339,"Secondary Education","Primary Education","Central Government (Central Agencies)",,,437
+340,"Primary Education","Tertiary Education","Central Government (Central Agencies)",,,269
+341,"Primary Education","Secondary Education","Early Childhood Education","Central Government (Central Agencies)",,732
+342,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)",,79
+343,"Workforce Development and Vocational Education","Tertiary Education","Sub-National Government",,,921
+344,"Secondary Education","Tertiary Education","Sub-National Government","Central Government (Central Agencies)",,136
+345,"Secondary Education","Tertiary Education",,,,775
+346,"Workforce Development and Vocational Education","Tertiary Education","Central Government (Central Agencies)",,,869
+347,"Secondary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",,207
+348,"Tertiary Education","Sub-National Government",,,,867
+349,"Secondary Education","Primary Education","Central Government (Central Agencies)","Tertiary Education","Sub-National Government",778
+350,"Adult; Basic and Continuing Education","Central Government (Central Agencies)","Sub-National Government",,,563
+351,"Tertiary Education","Secondary Education","Central Government (Central Agencies)",,,779
+352,"Secondary Education","Central Government (Central Agencies)","Tertiary Education",,,17
+353,"Secondary Education","Primary Education","Central Government (Central Agencies)","Tertiary Education",,95
+354,"Secondary Education","Central Government (Central Agencies)","Tertiary Education","Social Protection",,769
+355,Health,"Workforce Development and Vocational Education","Primary Education","Social Protection",,355
+356,"Secondary Education","Primary Education","Tertiary Education","Sub-National Government","Central Government (Central Agencies)",116
+357,"Secondary Education","Tertiary Education","Central Government (Central Agencies)",,,774
+358,"Primary Education","Central Government (Central Agencies)","Secondary Education","Tertiary Education","Other Education",405
+359,"Primary Education","Secondary Education","Central Government (Central Agencies)","Tertiary Education",,443
+360,"Secondary Education","Primary Education","Tertiary Education","Central Government (Central Agencies)",,97
+361,"Primary Education","Central Government (Central Agencies)","Secondary Education","Workforce Development and Vocational Education","Tertiary Education",104
+362,"Primary Education","Other Education",,,,276
+363,"Primary Education","Central Government (Central Agencies)","Sub-National Government","Tertiary Education",,585
+364,"Primary Education","Tertiary Education","Sub-National Government","Early Childhood Education","Central Government (Central Agencies)",155
+365,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",105
+366,"Central Government (Central Agencies)","Primary Education","Secondary Education",,,731
+367,"Primary Education","Other Education","Tertiary Education","Central Government (Central Agencies)",,99
+368,"Primary Education","Tertiary Education","Sub-National Government",,,91
+369,"Primary Education","Central Government (Central Agencies)","Sub-National Government","Tertiary Education",,646
+370,"Social Protection","Central Government (Central Agencies)",,,,857
+371,"Tertiary Education","Primary Education","Secondary Education",,,187
+372,"Primary Education","Sub-National Government",,,,567
+373,"Secondary Education","Primary Education",Health,"Other Public Administration","Tertiary Education",314
+374,"Primary Education","Central Government (Central Agencies)","Tertiary Education",,,656
+375,"Tertiary Education","Primary Education","Secondary Education","Central Government (Central Agencies)",,219
+376,"Early Childhood Education",,,,,170
+377,"Secondary Education","Central Government (Central Agencies)","Tertiary Education",,,690
+378,"Secondary Education","Tertiary Education","Primary Education","Central Government (Central Agencies)",,287
+379,"Primary Education","Central Government (Central Agencies)","Secondary Education","Tertiary Education",,439
+380,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)",,44
+381,"Secondary Education","Central Government (Central Agencies)","Workforce Development and Vocational Education","Social Protection","Other Water Supply; Sanitation and Waste Management",367
+382,Health,"Early Childhood Education","Sub-National Government","Social Protection",,469
+383,"Tertiary Education","Primary Education","Secondary Education",,,183
+384,"Tertiary Education","Secondary Education",,,,131
+385,"Primary Education","Central Government (Central Agencies)","Tertiary Education",,,271
+386,"Early Childhood Education","Workforce Development and Vocational Education","Adult; Basic and Continuing Education","Sub-National Government","Central Government (Central Agencies)",465
+387,"Primary Education","Tertiary Education","Central Government (Central Agencies)","Adult; Basic and Continuing Education",,108
+388,"Adult; Basic and Continuing Education","Central Government (Central Agencies)",Media,,,5
+389,Health,"Central Government (Central Agencies)","Primary Education","Secondary Education",,430
+390,"Primary Education","Tertiary Education","Sub-National Government",,,221
+391,"Primary Education","Central Government (Central Agencies)","Tertiary Education",,,643
+392,"Primary Education","Tertiary Education","Sub-National Government","Central Government (Central Agencies)","Secondary Education",98
+393,"Primary Education","Early Childhood Education","Tertiary Education","Other Public Administration","Secondary Education",645
+394,"Primary Education","Central Government (Central Agencies)","Sub-National Government","Tertiary Education",,651
+395,"Tertiary Education","Primary Education","Secondary Education",,,274
+396,"Workforce Development and Vocational Education","Central Government (Central Agencies)",,,,464
+397,"Primary Education",Health,"Early Childhood Education","Tertiary Education","Other Public Administration",466
+398,"Workforce Development and Vocational Education","Central Government (Central Agencies)",,,,870
+399,"Tertiary Education","Central Government (Central Agencies)","Social Protection","Primary Education",,644
+400,"Workforce Development and Vocational Education","Central Government (Central Agencies)","Adult; Basic and Continuing Education","Other Industry; Trade and Services","Micro- and SME finance",317
+401,"Primary Education","Central Government (Central Agencies)","Tertiary Education","Sub-National Government",,296
+402,"Central Government (Central Agencies)","Primary Education",,,,299
+403,"Primary Education","Central Government (Central Agencies)","Tertiary Education",,,704
+404,"Primary Education","Central Government (Central Agencies)",,,,652
+405,"Primary Education","Tertiary Education","Adult; Basic and Continuing Education","Central Government (Central Agencies)",,333
+406,"Other Education","Central Government (Central Agencies)","Primary Education","Secondary Education",,275
+407,"Other Education","Central Government (Central Agencies)","Secondary Education","Primary Education",,278
+408,"Secondary Education","Primary Education","Central Government (Central Agencies)","Sub-National Government",,239
+409,"Tertiary Education","Primary Education","Secondary Education","Central Government (Central Agencies)","Workforce Development and Vocational Education",547
+410,Health,"Primary Education","Adult; Basic and Continuing Education","Other Industry; Trade and Services","Central Government (Central Agencies)",802
+411,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)",,402
+412,"Tertiary Education","Primary Education","Central Government (Central Agencies)",,,270
+413,"Primary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government","Secondary Education",280
+414,"Primary Education","Central Government (Central Agencies)","Secondary Education","Sub-National Government",,403
+415,Health,"Primary Education","Early Childhood Education","Central Government (Central Agencies)",,817
+416,"Primary Education","Central Government (Central Agencies)",,,,206
+417,"Primary Education","Secondary Education","Central Government (Central Agencies)","Tertiary Education","Vocational training",213
+418,"Primary Education","Central Government (Central Agencies)","Tertiary Education",,,832
+419,"Primary Education","Tertiary Education","Central Government (Central Agencies)","Social Protection","Sub-National Government",77
+420,"Secondary Education","Tertiary Education","Central Government (Central Agencies)",,,659
+421,"Primary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",,648
+422,"Central Government (Central Agencies)","Primary Education","Secondary Education","Tertiary Education","Adult; Basic and Continuing Education",282
+423,"Tertiary Education","Primary Education","Secondary Education","Central Government (Central Agencies)",,250
+424,"Tertiary Education","Primary Education","Central Government (Central Agencies)",,,649
+425,"Central Government (Central Agencies)","Primary Education","Tertiary Education","Other social services",,647
+426,"Primary Education","Tertiary Education","Early Childhood Education","Central Government (Central Agencies)",,241
+427,"Vocational training","Central Government (Central Agencies)",,,,793
+428,"Primary Education","Central Government (Central Agencies)",,,,710
+429,"Primary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",,245
+430,"Other industry","Vocational training",,,,922
+431,"Primary Education","Tertiary Education","Central Government (Central Agencies)",,,247
+432,Health,"Primary Education",Sanitation,"Social Protection",,10
+433,"Primary Education","Public Administration - Education",,,,907
+434,"Secondary Education","Public Administration - Education","Primary Education",,,481
+435,"Social Protection","Primary Education",,,,596
+436,"Other Education",,,,,911
+437,"Primary Education","Secondary Education",,,,733
+438,"Social Protection","Other Public Administration","Other Non-bank Financial Institutions",Services,"Other Education",849
+439,"Primary Education","Secondary Education","Other Education",,,109
+440,"Other Education",,,,,692
+441,Health,"Public Administration - Social Protection","Central Government (Central Agencies)","Sub-National Government",,723
+442,"Secondary Education","Tertiary Education","Primary Education","Early Childhood Education",,43
+443,"Secondary Education","Tertiary Education","Other Education",,,702
+444,"Central Government (Central Agencies)","Sub-National Government","Secondary Education",Health,,724
+445,"Other Education",Health,"Other Agriculture; Fishing and Forestry","Other Water Supply; Sanitation and Waste Management","Other Public Administration",22
+446,"Tertiary Education",,,,,683
+447,"Other Education","Water Supply","Other Public Administration",Sanitation,,421
+448,"Tertiary Education","Workforce Development and Vocational Education",,,,792
+449,"Primary Education",,,,,525
+450,"Secondary Education","Public Administration - Education",,,,418
+451,"Other Education","Social Protection",,,,535
+452,Health,"Other Education","Public Administration - Social Protection",,,164
+453,"Public Administration - Education","Secondary Education","Early Childhood Education","Tertiary Education","Primary Education",228
+454,"Other Education","Public Administration - Education","Social Protection","Primary Education","Other Information and Communications Technologies",387
+455,"Secondary Education",,,,,490
+456,"Other Education",Health,"Other Water Supply; Sanitation and Waste Management","Central Government (Central Agencies)","Social Protection",705
+457,"Social Protection","Public Administration - Social Protection",,,,433
+458,"Public Administration - Education","Primary Education","Secondary Education","Tertiary Education",,782
+459,"Sub-National Government","Other Agriculture; Fishing and Forestry",Health,"Other Education","Social Protection",171
+460,"Secondary Education","Primary Education","Tertiary Education","Public Administration - Education",,351
+461,"Social Protection","Other Education",,,,472
+462,"Social Protection",Health,"Other Education","Public Administration - Social Protection",,334
+463,"Sub-National Government","Other Education",Health,"Rural and Inter-Urban Roads","Other Water Supply; Sanitation and Waste Management",908
+464,"Primary Education","Tertiary Education","Public Administration - Education",,,410
+465,"Primary Education",,,,,597
+466,"Public Administration - Education","Workforce Development and Vocational Education","Secondary Education",,,825
+467,"Primary Education","Public Administration - Education",,,,599
+468,"Primary Education","Public Administration - Education","Tertiary Education",,,760
+469,"Other Public Administration",Health,"Social Protection","Other Education",,174
+470,"Public Administration - Education","Secondary Education","Tertiary Education",,,257
+471,"Secondary Education","Primary Education","Public Administration - Education",,,821
+472,"Social Protection",Health,"Other Education","Central Government (Central Agencies)",,159
+473,"Early Childhood Education",Health,"Social Protection",,,614
+474,"Workforce Development and Vocational Education","Social Protection","Public Administration - Education",,,602
+475,"Other Education","Social Protection",Health,"Public Administration - Health","Public Administration - Social Protection",756
+476,"Other Education","Public Administration - Education",,,,590
+477,"Other Education","Other Agriculture; Fishing and Forestry",Crops,Health,Fisheries,489
+478,"Early Childhood Education","Primary Education","Secondary Education","Other Education",,738
+479,"Primary Education","Early Childhood Education","Other Education","Other Public Administration","Sub-National Government",132
+480,"Secondary Education",Health,,,,162
+481,"Secondary Education","Workforce Development and Vocational Education","Other Education",,,395
+482,"Primary Education","Public Administration - Education",,,,859
+483,"Social Protection","Public Administration - Social Protection","Primary Education","Other Information and Communications Technologies",,165
+484,"Secondary Education",,,,,763
+485,"Tertiary Education","Public Administration - Education",,,,684
+486,"Secondary Education","Workforce Development and Vocational Education",,,,615
+487,"Other Public Administration",Health,"Social Protection","Other Education","Banking Institutions",680
+488,"Social Protection",Health,"Other Education",,,495
+489,"Other Agriculture; Fishing and Forestry","Social Protection","Workforce Development and Vocational Education",Health,Fisheries,14
+490,"Social Protection",Health,"Other Education",,,374
+491,"Primary Education","Public Administration - Education",Sanitation,,,729
+492,"Public Administration - Social Protection","Secondary Education","Social Protection",,,151
+493,"Other Education","Tertiary Education","Public Administration - Education","Early Childhood Education",,739
+494,"Other Education","Sub-National Government",,,,574
+495,Health,"Public Administration - Health","Primary Education","Other Education","Central Government (Central Agencies)",755
+496,"Secondary Education","Workforce Development and Vocational Education","Tertiary Education","Adult; Basic and Continuing Education","Primary Education",843
+497,"Other Education","Social Protection",Health,"Public Administration - Health",,818
+498,"Primary Education","Public Administration - Education","Early Childhood Education","Secondary Education",,92
+499,"Other Education","Rural and Inter-Urban Roads","Other Agriculture; Fishing and Forestry",Health,"Water Supply",486
+500,"Primary Education","Central Government (Central Agencies)",,,,837
+501,"Central Government (Central Agencies)",Health,"Other Education","Other Water Supply; Sanitation and Waste Management",,510
+502,"Central Government (Central Agencies)","Other Non-bank Financial Institutions","Other Agriculture; Fishing and Forestry","Public Administration - Health","Other Education",915
+503,"Other Industry; Trade and Services","Central Government (Central Agencies)","Other Energy and Extractives","Other Education",Health,494
+504,"Primary Education","Early Childhood Education","Social Protection","Secondary Education","Sub-National Government",100
+505,"Central Government (Central Agencies)","Early Childhood Education",Health,,,477
+506,"Secondary Education",,,,,28
+507,"Primary Education","Secondary Education","Tertiary Education",,,743
+508,"Secondary Education","Central Government (Central Agencies)","Sub-National Government",,,766
+509,"Tertiary Education","Primary Education","Secondary Education","Sub-National Government","Central Government (Central Agencies)",29
+510,"Central Government (Central Agencies)","Early Childhood Education","Primary Education","Sub-National Government","Tertiary Education",434
+511,"Other Public Administration","Other Industry; Trade and Services","Other Energy and Extractives","ICT Infrastructure","Secondary Education",173
+512,"Secondary Education","Primary Education","Sub-National Government",,,53
+513,"Other Public Administration","Social Protection","Primary Education",Forestry,"Banking Institutions",914
+514,"Central Government (Central Agencies)","Other Industry; Trade and Services","Primary Education",Health,"Other Education",736
+515,"Central Government (Central Agencies)","Secondary Education","Primary Education","Early Childhood Education",,307
+516,"Central Government (Central Agencies)",Health,"Other Education","Insurance and Pension","Non-Renewable Energy Generation",369
+517,"Primary Education","Secondary Education","Workforce Development and Vocational Education","Tertiary Education","Other Public Administration",291
+518,"Rural and Inter-Urban Roads","Other Water Supply; Sanitation and Waste Management","Energy Transmission and Distribution","Other Public Administration",,12
+519,"Central Government (Central Agencies)","Other Education","Urban Transport","Water Supply",Health,163
+520,"Primary Education","Central Government (Central Agencies)","Secondary Education","Social Protection","Tertiary Education",297
+521,"Sub-National Government","Other Industry; Trade and Services","Primary Education","Energy Transmission and Distribution",,873
+522,"Other Education",Health,"Water Supply","Other Energy and Extractives",,886
+523,"Central Government (Central Agencies)","Other Agriculture; Fishing and Forestry","Other Education","Rural and Inter-Urban Roads","Other Industry; Trade and Services",537
+524,"Primary Education","Secondary Education","Early Childhood Education","Other Public Administration",,48
+525,"Primary Education","Early Childhood Education","Secondary Education","Central Government (Central Agencies)","Sub-National Government",182
+526,"Primary Education","Secondary Education","Workforce Development and Vocational Education","Tertiary Education","Other Public Administration",292
+527,"Central Government (Central Agencies)","Other Education","Sub-National Government","Water Supply",,885
+528,"Other Public Administration","Other Non-bank Financial Institutions","Other Agriculture; Fishing and Forestry","Other Education",Health,910
+529,"Central Government (Central Agencies)",Health,"Primary Education","Other Energy and Extractives","Other Industry; Trade and Services",384
+530,"Central Government (Central Agencies)","Primary Education",Health,"Public Administration - Social Protection","Law and Justice",632
+531,"Central Government (Central Agencies)","Other Industry; Trade and Services","Primary Education",Health,"Other Non-bank Financial Institutions",172
+532,"Primary Education","Central Government (Central Agencies)",,,,709
+533,"Central Government (Central Agencies)","Law and Justice","Other Energy and Extractives",Health,"Other Education",493
+534,"Workforce Development and Vocational Education","Adult; Basic and Continuing Education","Central Government (Central Agencies)",,,180
+535,"Other Transportation",Health,"Other Education","Other Water Supply; Sanitation and Waste Management",,349
+536,"Secondary Education","Central Government (Central Agencies)","Tertiary Education","Social Protection",,358
+537,"Primary Education","Secondary Education","Central Government (Central Agencies)",,,474
+538,"Central Government (Central Agencies)","Primary Education",Health,"Roads and highways",,479
+539,"Other Public Administration","Other Energy and Extractives","Social Protection","Other Industry; Trade and Services","Other Education",640
+540,"Central Government (Central Agencies)",Health,"Primary Education","Energy Transmission and Distribution","Other Industry; Trade and Services",389
+541,"Other Education","Sub-National Government",,,,741
+542,"Other Public Administration","Other Non-bank Financial Institutions","Other Agriculture; Fishing and Forestry","Other Education",Health,623
+543,"Primary Education","Central Government (Central Agencies)",,,,841
+544,"Central Government (Central Agencies)","Primary Education","Secondary Education",,,893
+545,"Secondary Education","Sub-National Government","Central Government (Central Agencies)",,,272
+546,"Other Education","Primary Education",Health,"Other Public Administration",,217
+547,"Other Public Administration","Tertiary Education","Secondary Education","Primary Education",Health,305
+548,"Primary Education","Secondary Education","Central Government (Central Agencies)","Sub-National Government",,260
+549,"Primary Education","Secondary Education","Central Government (Central Agencies)",,,127
+550,"Social Protection","Primary Education",Health,,,147
+551,"Other Public Administration","Sub-National Government","Social Protection","Other Education",Health,375
+552,"Early Childhood Education","Central Government (Central Agencies)",,,,202
+553,"Central Government (Central Agencies)",,,,,436
+554,"Primary Education","Secondary Education","Sub-National Government",,,575
+555,"Primary Education","Secondary Education","Central Government (Central Agencies)","Sub-National Government","Early Childhood Education",539
+556,"Secondary Education","Sub-National Government",Health,"Social Protection","Central Government (Central Agencies)",512
+557,"Primary Education","Secondary Education","Early Childhood Education","Central Government (Central Agencies)","Sub-National Government",505
+558,"Secondary Education","Central Government (Central Agencies)","Tertiary Education","Primary Education",,823
+559,"Other Public Administration","Other Non-bank Financial Institutions","Other Education",Health,"Other Agriculture; Fishing and Forestry",633
+560,"Social Protection","Primary Education",,,,66
+561,"Primary Education","Central Government (Central Agencies)","Tertiary Education",,,734
+562,"Primary Education","Sub-National Government","Early Childhood Education","Central Government (Central Agencies)",,191
+563,"Secondary Education","Primary Education","Central Government (Central Agencies)","Sub-National Government",,253
+564,"Other Education","Central Government (Central Agencies)","Sub-National Government",,,673
+565,"Primary Education","Secondary Education","Central Government (Central Agencies)",,,235
+566,"Primary Education","Sub-National Government","Central Government (Central Agencies)",,,106
+567,"Secondary Education","Primary Education","Central Government (Central Agencies)","Tertiary Education","Other Industry; Trade and Services",114
+568,"Primary Education","Central Government (Central Agencies)","Secondary Education","Workforce Development and Vocational Education","Tertiary Education",742
+569,"Primary Education","Secondary Education",,,,60
+570,"Other Public Administration","Banking Institutions","Other Industry; Trade and Services",Health,"Other Education",635
+571,"Primary Education","Secondary Education",,,,236
+572,"Secondary Education","Primary Education","Early Childhood Education",,,268
+573,"Primary Education","Secondary Education","Central Government (Central Agencies)",,,691
+574,"Other Agriculture; Fishing and Forestry","Other Education","Social Protection","Sub-National Government",Health,36
+575,Health,"Central Government (Central Agencies)","Social Protection","Sub-National Government",,937
+576,Health,"Secondary Education","Tertiary Education","Social Protection","Central Government (Central Agencies)",346
+577,"Other Agriculture; Fishing and Forestry","Other Transportation","Social Protection",Health,"Other Education",336
+578,"Adult; Basic and Continuing Education","Central Government (Central Agencies)",,,,34
+579,"Agricultural markets; commercialization and agri-business","Central Government (Central Agencies)",Crops,Health,"Other Education",209
+580,"Primary Education","Early Childhood Education","Tertiary Education","Central Government (Central Agencies)","Social Protection",874
+581,"Tertiary Education","Workforce Development and Vocational Education","Central Government (Central Agencies)",,,142
+582,Health,"Other Water Supply; Sanitation and Waste Management","Other Education","Social Protection","Central Government (Central Agencies)",348
+583,"Other Information and Communications Technologies",,,,,670
+584,"Primary Education","Adult; Basic and Continuing Education",,,,641
+585,"Primary Education",,,,,415
+586,"Other Education",,,,,476
+587,"Early Childhood Education","Primary Education","Central Government (Central Agencies)","Sub-National Government",,144
+588,"Central Government (Central Agencies)","Other Education",Health,Crops,"ICT Infrastructure",448
+589,"Central Government (Central Agencies)","Other Education",Health,Crops,"ICT Infrastructure",378
+590,"Central Government (Central Agencies)","Other Education",Health,"Other Agriculture; Fishing and Forestry","ICT Infrastructure",379
+591,"Secondary Education","Central Government (Central Agencies)",,,,759
+592,"Other Education","Housing Construction","Other Water Supply; Sanitation and Waste Management","Other Agriculture; Fishing and Forestry",Health,335
+593,"Social Protection","Sub-National Government","Roads and highways","Other Education","Other Water Supply; Sanitation and Waste Management",11
+594,"Secondary Education","Tertiary Education","Primary Education","Workforce Development and Vocational Education","Central Government (Central Agencies)",879
+595,"Primary Education","Sub-National Government","Adult; Basic and Continuing Education",,,452
+596,"Adult; Basic and Continuing Education",Media,"Central Government (Central Agencies)",,,548
+597,"Secondary Education","Tertiary Education","Primary Education","Sub-National Government","Central Government (Central Agencies)",835
+598,"Primary Education","Secondary Education","Central Government (Central Agencies)","Tertiary Education","Sub-National Government",834
+599,"Sub-National Government","Central Government (Central Agencies)",,,,534
+600,Power,"Central Government (Central Agencies)","Other Industry; Trade and Services","Irrigation and Drainage","Other Education",828
+601,"Other Education","Social Protection",,,,18
+602,"Irrigation and Drainage","Primary Education",Health,"Roads and highways","Public Administration - Social Protection",35
+603,"Primary Education","Secondary Education","Sub-National Government","Central Government (Central Agencies)",,258
+604,"Tertiary Education","Sub-National Government",,,,431
+605,"Primary Education","Tertiary Education","Secondary Education","Other Public Administration","Other Education",284
+606,"Secondary Education","Primary Education","Sub-National Government",,,927
+607,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",401
+608,"Other Education","Central Government (Central Agencies)","Sub-National Government",,,223
+609,"Primary Education","Central Government (Central Agencies)",,,,259
+610,"Primary Education","Central Government (Central Agencies)","Tertiary Education",,,103
+611,"Tertiary Education","Secondary Education","Central Government (Central Agencies)",,,231
+612,"Other Water Supply; Sanitation and Waste Management","Roads and highways",Health,"Primary Education","Sub-National Government",145
+613,"Primary Education","Tertiary Education","Sub-National Government","Central Government (Central Agencies)","Social Protection",855
+614,"Tertiary Education","Adult; Basic and Continuing Education",,,,689
+615,"Secondary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",,836
+616,"Tertiary Education","Central Government (Central Agencies)",,,,831
+617,"Primary Education","Central Government (Central Agencies)","Sub-National Government",,,337
+618,"Workforce Development and Vocational Education","Other Industry; Trade and Services","Central Government (Central Agencies)",,,894
+619,"Primary Education","Social Protection","Tertiary Education","Adult; Basic and Continuing Education","Other Public Administration",154
+620,Health,"Other Education","Other Water Supply; Sanitation and Waste Management","Sub-National Government","Central Government (Central Agencies)",149
+621,"Secondary Education","Primary Education","Central Government (Central Agencies)","Tertiary Education",,94
+622,"Primary Education","Other Public Administration","Secondary Education","Early Childhood Education","Tertiary Education",88
+623,Health,"Secondary Education","Primary Education","Central Government (Central Agencies)",,311
+624,"Workforce Development and Vocational Education","Central Government (Central Agencies)",,,,909
+625,Health,"Central Government (Central Agencies)","Social Protection",,,617
+626,"Primary Education","Other Public Administration","Early Childhood Education","Tertiary Education","Social Protection",93
+627,"Secondary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",,770
+628,"Primary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",,90
+629,"Primary Education","Other Education","Central Government (Central Agencies)","Sub-National Government",,653
+630,"Workforce Development and Vocational Education","Primary Education","Central Government (Central Agencies)",,,445
+631,"Primary Education","Tertiary Education","Sub-National Government","Central Government (Central Agencies)",,566
+632,"Tertiary Education","Central Government (Central Agencies)","Sub-National Government",,,328
+633,"Secondary Education","Primary Education","Adult; Basic and Continuing Education","Workforce Development and Vocational Education","Other Public Administration",220
+634,"Tertiary Education","Central Government (Central Agencies)",,,,850
+635,"Tertiary Education","Central Government (Central Agencies)",,,,657
+636,"Tertiary Education","Central Government (Central Agencies)",,,,515
+637,"Central Government (Central Agencies)","Tertiary Education","Sub-National Government","Secondary Education","Primary Education",240
+638,"Central Government (Central Agencies)","Tertiary Education","Primary Education",,,654
+639,"Workforce Development and Vocational Education","Central Government (Central Agencies)",,,,868
+640,"Primary Education","Central Government (Central Agencies)","Secondary Education","Workforce Development and Vocational Education","Tertiary Education",294
+641,"Primary Education","Secondary Education","Central Government (Central Agencies)","Tertiary Education",,300
+642,"Central Government (Central Agencies)","Tertiary Education","Workforce Development and Vocational Education","Secondary Education","Early Childhood Education",442
+643,"Primary Education","Secondary Education","Tertiary Education","Vocational training","Central Government (Central Agencies)",301
+644,"Primary Education","Central Government (Central Agencies)","Tertiary Education",,,215
+645,"Primary Education","Vocational training","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",242
+646,"Central Government (Central Agencies)","Vocational training","Tertiary Education","Primary Education","Secondary Education",251
+647,"Vocational training","Central Government (Central Agencies)",,,,561
+648,"Other Agriculture; Fishing and Forestry","Social Protection","Sub-National Government","Rural and Inter-Urban Roads","Other Non-bank Financial Institutions",513
+649,"Central Government (Central Agencies)","Other Education","Social Protection","Energy Transmission and Distribution","Sub-National Government",605
+650,Health,"Other Education","Social Protection",,,9
+651,"Other Industry; Trade and Services","Other Education","Tertiary Education","Secondary Education",,55
+652,"Central Government (Central Agencies)","Workforce Development and Vocational Education",Health,"Sub-National Government",,839
+653,"Social Protection","Adult; Basic and Continuing Education","Banking Institutions","Other Non-bank Financial Institutions",,352
+654,"Social Protection","Other Education","Public Administration - Information and Communications Technologies","ICT Services","Other Information and Communications Technologies",938
+655,"Other Public Administration",Health,"Other Industry; Trade and Services","Secondary Education","Other Agriculture; Fishing and Forestry",884
+656,"Primary Education","Secondary Education",,,,554
+657,"Other Education",Trade,"Other Public Administration","Social Protection","Other Energy and Extractives",572
+658,"Primary Education",,,,,8
+659,"Social Protection","Public Administration - Social Protection",,,,783
+660,"Central Government (Central Agencies)","Other Education","Other Agriculture; Fishing and Forestry",Health,,555
+661,"Social Protection","Central Government (Central Agencies)","Capital Markets","Secondary Education","Primary Education",573
+662,"Sub-National Government","Other Education","Social Protection",,,21
+663,"Public Administration - Information and Communications Technologies","Other Information and Communications Technologies","Secondary Education","Central Government (Central Agencies)",Health,390
+664,"Primary Education",,,,,7
+665,Trade,"Other Education","Other Public Administration","Social Protection","Other Energy and Extractives",407
+666,"Sub-National Government","Public Administration - Information and Communications Technologies","Other Agriculture; Fishing and Forestry","Other Education","Public Administration - Social Protection",697
+667,"Workforce Development and Vocational Education","Tertiary Education","Public Administration - Education",,,30
+668,"Primary Education","Secondary Education","Public Administration - Education","Social Protection",,933
+669,"Other Public Administration","Other Agriculture; Fishing and Forestry",Health,"Sub-National Government","Other Education",722
+670,"Sub-National Government","Other Education",Health,,,681
+671,"Social Protection","Other Industry; Trade and Services","Sub-National Government","Primary Education",Health,62
+672,"Other Transportation","Other Education","Other Industry; Trade and Services","Sub-National Government",,698
+673,"Other Industry; Trade and Services","Central Government (Central Agencies)","Social Protection","Secondary Education",,517
+674,"Social Protection","Public Administration - Social Protection",,,,603
+675,"Urban Transport","Other Water Supply; Sanitation and Waste Management","Sub-National Government","Other Education","Energy Transmission and Distribution",518
+676,"Central Government (Central Agencies)","Other Non-bank Financial Institutions",Health,"Other Education","Oil and Gas",913
+677,"Primary Education","Public Administration - Education","Early Childhood Education",,,428
+678,"Central Government (Central Agencies)","Public Administration - Social Protection","Secondary Education","Primary Education",,175
+679,Health,"Other Education","Social Protection","Public Administration - Health","Central Government (Central Agencies)",889
+680,"Central Government (Central Agencies)","Other Education","Social Protection",Health,"Other Industry; Trade and Services",630
+681,"Secondary Education","Tertiary Education",,,,904
+682,"Central Government (Central Agencies)","Primary Education",Health,"Secondary Education",,699
+683,"Primary Education",Health,"Public Administration - Education",,,429
+684,"Primary Education","Secondary Education","Public Administration - Education","Adult; Basic and Continuing Education",,553
+685,"Social Protection","Public Administration - Social Protection",,,,157
+686,"Central Government (Central Agencies)",Health,"Renewable Energy Hydro","Banking Institutions","Other Education",371
+687,"Primary Education","Public Administration - Education",,,,541
+688,"Central Government (Central Agencies)",Health,"Public Administration - Social Protection","Early Childhood Education","Social Protection",616
+689,"Primary Education","Secondary Education","Early Childhood Education","Public Administration - Education",,735
+690,"Central Government (Central Agencies)","Other Energy and Extractives","Other Agriculture; Fishing and Forestry","Other Education",Health,865
+691,"Primary Education","Secondary Education","Public Administration - Education",,,598
+692,"Sub-National Government","Irrigation and Drainage","Other Water Supply; Sanitation and Waste Management","Central Government (Central Agencies)","Workforce Development and Vocational Education",368
+693,"Other Energy and Extractives","Water Supply","Energy Transmission and Distribution","Primary Education","Secondary Education",161
+694,"Central Government (Central Agencies)","Social Protection","Secondary Education","Primary Education",,331
+695,"Public Administration - Education","Workforce Development and Vocational Education","Social Protection",,,571
+696,"Social Protection","Early Childhood Education","Public Administration - Social Protection",Health,,800
+697,"Central Government (Central Agencies)","Rural and Inter-Urban Roads","Other Education",Health,Crops,790
+698,"Sub-National Government","Other Education",Health,"Other Water Supply; Sanitation and Waste Management","Other Industry; Trade and Services",57
+699,"Early Childhood Education",Health,"Social Protection","Central Government (Central Agencies)",,470
+700,"Other Public Administration",Health,"Primary Education","Other Water Supply; Sanitation and Waste Management",Forestry,791
+701,"Social Protection",,,,,399
+702,"Sub-National Government","Central Government (Central Agencies)","Social Protection",Health,"Other Education",169
+703,"Central Government (Central Agencies)","Social Protection",,,,158
+704,"Social Protection","Primary Education","Sub-National Government","Other Water Supply; Sanitation and Waste Management","Banking Institutions",799
+705,"Social Protection","Primary Education",Health,"Rural and Inter-Urban Roads","Other Water Supply; Sanitation and Waste Management",146
+706,"Other Education",Health,"Sub-National Government","Social Protection",,591
+707,"Central Government (Central Agencies)",Health,"Other Energy and Extractives","Banking Institutions","Other Education",882
+708,"Primary Education","Secondary Education","Sub-National Government","Tertiary Education","Other Education",559
+709,"Other Public Administration","Other Education",Health,"Other Water Supply; Sanitation and Waste Management","Other Agriculture; Fishing and Forestry",901
+710,"Secondary Education","Tertiary Education","Central Government (Central Agencies)","Primary Education",,939
+711,Health,"Other Education","Social Protection","Other Public Administration",,377
+712,"Other Non-bank Financial Institutions","Primary Education",Health,,,120
+713,"Central Government (Central Agencies)","Other Education",Crops,"Other Industry; Trade and Services","Law and Justice",856
+714,"Other Non-bank Financial Institutions","Renewable Energy Biomass","Other Public Administration",,,121
+715,"Primary Education","Social Protection",,,,424
+716,"Social Protection","Central Government (Central Agencies)","Sub-National Government",,,1
+717,"Central Government (Central Agencies)","Other Education",Health,"Other Industry; Trade and Services","Agricultural Extension; Research; and Other Support Activities",542
+718,Health,"Other Transportation","Law and Justice","Primary Education","Other Energy and Extractives",166
+719,"Primary Education","Early Childhood Education","Sub-National Government","Secondary Education","Central Government (Central Agencies)",40
+720,"Central Government (Central Agencies)",Health,"Other Energy and Extractives","Other Water Supply; Sanitation and Waste Management","Primary Education",749
+721,"Central Government (Central Agencies)",Health,"Other Education","Energy Transmission and Distribution","ICT Infrastructure",578
+722,"Other Public Administration","Other Water Supply; Sanitation and Waste Management",Health,"Social Protection","Other Education",134
+723,"Other Public Administration",Aviation,"ICT Infrastructure","Other Industry; Trade and Services",,550
+724,"Central Government (Central Agencies)","Other Education",Crops,Health,"Water Supply",714
+725,"Other Water Supply; Sanitation and Waste Management","Other Education",Health,"Social Protection","Other Public Administration",813
+726,"Water Supply","Other Public Administration",Health,"Agricultural Extension; Research; and Other Support Activities","Primary Education",13
+727,"Social Protection",Health,"Primary Education","Sub-National Government","Banking Institutions",51
+728,"Primary Education","Central Government (Central Agencies)","Sub-National Government",,,931
+729,"Other Public Administration","Other Education","Other Agriculture; Fishing and Forestry",Health,"Other Industry; Trade and Services",636
+730,"Central Government (Central Agencies)",Health,"ICT Infrastructure","Other Energy and Extractives","Primary Education",626
+731,"Primary Education","Central Government (Central Agencies)","Sub-National Government",,,65
+732,"Secondary Education","Central Government (Central Agencies)","Sub-National Government","Social Protection","Tertiary Education",588
+733,"Primary Education","Secondary Education","Sub-National Government","Central Government (Central Agencies)",,238
+734,Health,"Other Education","Social Protection",,,419
+735,"Primary Education","Secondary Education","Central Government (Central Agencies)","Sub-National Government",,227
+736,"Central Government (Central Agencies)","Law and Justice","Other Education",Health,Trade,478
+737,"Other Public Administration","Banking Institutions",Crops,"Other Industry; Trade and Services",Health,449
+738,"Social Protection","Central Government (Central Agencies)",,,,810
+739,"Other Public Administration","Banking Institutions",Crops,"Other Industry; Trade and Services",Health,210
+740,"Primary Education","Tertiary Education","Other Education","Sub-National Government","Workforce Development and Vocational Education",322
+741,"Primary Education","Secondary Education","Early Childhood Education","Central Government (Central Agencies)","Tertiary Education",246
+742,"Adult; Basic and Continuing Education","Primary Education","Social Protection","Sub-National Government","Central Government (Central Agencies)",499
+743,"Other Education","Workforce Development and Vocational Education","Central Government (Central Agencies)","Sub-National Government","Primary Education",266
+744,"Primary Education","Sub-National Government","Central Government (Central Agencies)","Tertiary Education","Social Protection",897
+745,"Social Protection","Central Government (Central Agencies)",,,,435
+746,"Adult; Basic and Continuing Education","Central Government (Central Agencies)",,,,620
+747,"Other Education","Central Government (Central Agencies)",,,,133
+748,"Primary Education","Central Government (Central Agencies)","Tertiary Education",,,178
+749,"Other Public Administration","Other Education",Health,"Other Non-bank Financial Institutions","Social Protection",667
+750,"Primary Education","Secondary Education","Central Government (Central Agencies)",,,344
+751,"Secondary Education","Primary Education","Tertiary Education","Sub-National Government","Central Government (Central Agencies)",441
+752,"Central Government (Central Agencies)","Other Industry; Trade and Services","Banking Institutions","Other Education",Health,208
+753,"Primary Education","Early Childhood Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",538
+754,"Primary Education","Sub-National Government","Tertiary Education","Early Childhood Education",,678
+755,"Social Protection",Health,"Sub-National Government","Other Education","Central Government (Central Agencies)",809
+756,"Primary Education","Secondary Education","Central Government (Central Agencies)","Tertiary Education",,267
+757,"Secondary Education","Primary Education","Workforce Development and Vocational Education","Early Childhood Education","Adult; Basic and Continuing Education",744
+758,"Primary Education","Central Government (Central Agencies)","Sub-National Government","Tertiary Education",Health,102
+759,"Primary Education","Tertiary Education","Other Public Administration","Workforce Development and Vocational Education","Adult; Basic and Continuing Education",302
+760,"Social Protection","Other Industry; Trade and Services",Health,"Other Education","Public Administration - Social Protection",806
+761,Health,"Early Childhood Education","Primary Education","Central Government (Central Agencies)","Sub-National Government",139
+762,"Tertiary Education",,,,,583
+763,Health,"Early Childhood Education","Sub-National Government","Central Government (Central Agencies)",,928
+764,Health,"Banking Institutions","Other Industry; Trade and Services","Roads and highways","Other Education",824
+765,"Primary Education","Tertiary Education","Central Government (Central Agencies)","Social Protection","Sub-National Government",642
+766,"Workforce Development and Vocational Education","Central Government (Central Agencies)","Tertiary Education",,,920
+767,"Primary Education","Workforce Development and Vocational Education","Central Government (Central Agencies)","Sub-National Government",,878
+768,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)",,406
+769,"Primary Education","Secondary Education","Tertiary Education","Sub-National Government","Central Government (Central Agencies)",875
+770,"Workforce Development and Vocational Education","Central Government (Central Agencies)","Adult; Basic and Continuing Education",,,925
+771,"Primary Education","Central Government (Central Agencies)","Tertiary Education",Health,"Social Protection",72
+772,"Primary Education","Other Public Administration","Early Childhood Education","Tertiary Education",Health,76
+773,"Tertiary Education","Secondary Education","Central Government (Central Agencies)","Workforce Development and Vocational Education","Primary Education",313
+774,"Primary Education","Tertiary Education","Sub-National Government","Central Government (Central Agencies)",,59
+775,"Primary Education","Secondary Education","Central Government (Central Agencies)","Tertiary Education",,265
+776,"Primary Education","Tertiary Education","Central Government (Central Agencies)",,,586
+777,"Primary Education","Sub-National Government",,,,898
+778,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)",,45
+779,"Other Education","Social Protection","Central Government (Central Agencies)","Sub-National Government","Micro- and SME finance",717
+780,"Primary Education","Secondary Education","Central Government (Central Agencies)","Tertiary Education",,248
+781,"Agricultural Extension; Research; and Other Support Activities","Adult; Basic and Continuing Education",Forestry,Fisheries,Livestock,33
+782,"Central Government (Central Agencies)","Secondary Education","Vocational training","Tertiary Education",,440
+783,"Tertiary Education","Workforce Development and Vocational Education","Sub-National Government",,,761
+784,"Other Agriculture; Fishing and Forestry","Roads and highways",Power,"Other Education","Sub-National Government",168
+785,"Vocational training","Primary Education","Tertiary Education","Central Government (Central Agencies)",,312
+786,"Central Government (Central Agencies)","Other Education","Tertiary Education","Secondary Education","Vocational training",279
+787,"Tertiary Education","Secondary Education","Central Government (Central Agencies)",,,315
+788,"Social Protection",,,,,463
+789,"Other Public Administration","Central Government (Central Agencies)","Social Protection","Early Childhood Education",Health,752
+790,"Central Government (Central Agencies)","Other Agriculture; Fishing and Forestry","Other Education",,,840
+791,"Central Government (Central Agencies)","Other Agriculture; Fishing and Forestry","Other Education",,,634
+792,Health,"Primary Education","Central Government (Central Agencies)","Sub-National Government",,446
+793,"Central Government (Central Agencies)","Other Industry; Trade and Services","Other Education",Health,"Other Transportation",619
+794,Health,"Primary Education","Central Government (Central Agencies)","Sub-National Government",,447
+795,"Central Government (Central Agencies)","Other Industry; Trade and Services","Other Education",Health,"Other Transportation",576
+796,Health,"Primary Education",,,,509
+797,"Central Government (Central Agencies)","Other Non-bank Financial Institutions","Other Education",Health,"Other Industry; Trade and Services",491
+798,"Sub-National Government","Other Education","Social Protection","Other Energy and Extractives","Other Industry; Trade and Services",883
+799,"Central Government (Central Agencies)",Health,"Other Industry; Trade and Services","Primary Education","Tertiary Education",372
+800,"Social Protection","Central Government (Central Agencies)",Trade,"Capital Markets","Secondary Education",4
+801,"Central Government (Central Agencies)","Other Industry; Trade and Services","Public Administration - Social Protection","Other Education",Health,700
+802,"Social Protection",,,,,941
+803,"Energy Transmission and Distribution","Renewable Energy Biomass","Renewable Energy Geothermal","Renewable Energy Solar","Renewable Energy Wind",332
+804,"Central Government (Central Agencies)","Other Industry; Trade and Services",Health,"Primary Education","Secondary Education",488
+805,"Other Education","Other Agriculture; Fishing and Forestry",Health,"Other Water Supply; Sanitation and Waste Management","Other Transportation",357
+806,"Central Government (Central Agencies)",Health,"Primary Education","Water Supply",,536
+807,"Other Education","Agricultural markets; commercialization and agri-business","Other Industry; Trade and Services","Other Public Administration","Rural and Inter-Urban Roads",750
+808,"Central Government (Central Agencies)","Other Industry; Trade and Services","Other Agriculture; Fishing and Forestry","Other Education",Health,784
+809,"Roads and highways","Central Government (Central Agencies)","Primary Education","Water Supply","Sub-National Government",115
+810,"Central Government (Central Agencies)","Social Protection","Sub-National Government","Other Education",,531
+811,"Other Education","Sub-National Government",,,,672
+812,Health,"Social Protection","Primary Education","Central Government (Central Agencies)",,695
+813,"Central Government (Central Agencies)","Other Energy and Extractives","Other Education",Health,"Social Protection",579
+814,Health,"Primary Education","Social Protection",Sanitation,,192
+815,Health,"Primary Education","Social Protection",Sanitation,,193
+816,"Social Protection",,,,,24
+817,"Secondary Education","Other Public Administration","Primary Education","Social Protection",,185
+818,"Tertiary Education","Secondary Education","Central Government (Central Agencies)","Social Protection",,747
+819,"Social Protection",Health,"Central Government (Central Agencies)","Sub-National Government",,570
+820,"Other Education","Social Protection","Public Administration - Health",Health,"Central Government (Central Agencies)",125
+821,"Social Protection","Central Government (Central Agencies)","Early Childhood Education",,,718
+822,"Other Public Administration","Social Protection","Other Agriculture; Fishing and Forestry","Primary Education",Health,711
+823,"Other Public Administration","Other Education",Health,"Other Agriculture; Fishing and Forestry","Other Industry; Trade and Services",629
+824,"Other Public Administration","Other Industry; Trade and Services","Social Protection",Health,"Other Education",198
+825,"Central Government (Central Agencies)","Sub-National Government",,,,124
+826,"Other Public Administration",Health,"Other Education","Other Water Supply; Sanitation and Waste Management","Other Industry; Trade and Services",627
+827,"Central Government (Central Agencies)","Other Agriculture; Fishing and Forestry","Other Water Supply; Sanitation and Waste Management",Health,"Other Education",631
+828,"Other Public Administration",Health,"Other Education","Social Protection","Other Industry; Trade and Services",392
+829,"Other Public Administration","Social Protection","Other Education","Other Agriculture; Fishing and Forestry","Other Transportation",420
+830,"Other Public Administration","Other Industry; Trade and Services","Other Non-bank Financial Institutions","Other Education",Health,663
+831,"Social Protection",Health,"Central Government (Central Agencies)","Other Education",,179
+832,Health,"Other Education","Central Government (Central Agencies)","Tertiary Education","Social Protection",347
+833,"Other Public Administration","Other Education","Other Water Supply; Sanitation and Waste Management","Other Agriculture; Fishing and Forestry",Health,887
+834,"Central Government (Central Agencies)",Health,"Primary Education","Other Agriculture; Fishing and Forestry","Sub-National Government",639
+835,"Public Administration - Social Protection","Other Education",Health,"Central Government (Central Agencies)","Other Industry; Trade and Services",628
+836,"Other Public Administration",Health,"Other Education","Other Industry; Trade and Services","Social Protection",391
+837,"Social Protection",Health,"Other Education",,,52
+838,"Central Government (Central Agencies)","Other Agriculture; Fishing and Forestry",Health,"Other Education",,138
+839,"Primary Education","Social Protection",,,,666
+840,"Secondary Education",,,,,475
+841,Health,"Other Education","Social Protection","Other Public Administration",,812
+842,"Social Protection","Primary Education","Sub-National Government","Tertiary Education","Central Government (Central Agencies)",359
+843,"Secondary Education","Social Protection","Tertiary Education","Central Government (Central Agencies)",,366
+844,"Primary Education","Adult; Basic and Continuing Education","Tertiary Education","Other Public Administration",Health,101
+845,"Social Protection","Other Education",Health,"Central Government (Central Agencies)","Other Industry; Trade and Services",808
+846,"Central Government (Central Agencies)",Health,"Other Water Supply; Sanitation and Waste Management","Other Education","Roads and highways",638
+847,"Other Education","Sub-National Government",Health,"Banking Institutions","Roads and highways",587
+848,"Secondary Education","Primary Education","Early Childhood Education","Sub-National Government",,78
+849,"Other Education","Insurance and Pension",Health,"Tertiary Education","Central Government (Central Agencies)",212
+850,"Primary Education","Tertiary Education","Other Public Administration","Workforce Development and Vocational Education","Social Protection",682
+851,"Central Government (Central Agencies)",Forestry,"Other Education","Banking Institutions",Health,830
+852,"Primary Education","Sub-National Government","Central Government (Central Agencies)","Tertiary Education",,758
+853,"Primary Education","Sub-National Government","Central Government (Central Agencies)","Tertiary Education","Early Childhood Education",107
+854,"Social Protection",Health,"Central Government (Central Agencies)","Early Childhood Education","Adult; Basic and Continuing Education",816
+855,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)","Sub-National Government",214
+856,"Primary Education",Health,"Other Water Supply; Sanitation and Waste Management","Sub-National Government","Central Government (Central Agencies)",794
+857,"Secondary Education","Central Government (Central Agencies)",Health,,,772
+858,"Primary Education","Central Government (Central Agencies)","Tertiary Education","Sub-National Government","Secondary Education",286
+859,"Central Government (Central Agencies)","Early Childhood Education","Primary Education","Secondary Education","Sub-National Government",38
+860,"Primary Education","Central Government (Central Agencies)","Sub-National Government","Tertiary Education",,96
+861,"Adult; Basic and Continuing Education","Central Government (Central Agencies)",,,,612
+862,"Primary Education","Tertiary Education","Central Government (Central Agencies)",,,650
+863,"Social Protection","Other Education","Central Government (Central Agencies)","Other Water Supply; Sanitation and Waste Management","Roads and highways",805
+864,Health,"Social Protection","Primary Education","Central Government (Central Agencies)",,581
+865,Health,"Other Education","Central Government (Central Agencies)","Roads and highways","Water Supply",798
+866,"Primary Education","Central Government (Central Agencies)","Tertiary Education","Early Childhood Education",,82
+867,"Primary Education","Central Government (Central Agencies)","Early Childhood Education","Sub-National Government",,83
+868,"Primary Education","Tertiary Education","Social Protection","Central Government (Central Agencies)",,565
+869,"Central Government (Central Agencies)",,,,,341
+870,"Secondary Education","Central Government (Central Agencies)","Sub-National Government","Tertiary Education",,167
+871,"Primary Education","Central Government (Central Agencies)","Secondary Education","Workforce Development and Vocational Education",,184
+872,Health,"Primary Education","Other Water Supply; Sanitation and Waste Management","Social Protection","Central Government (Central Agencies)",795
+873,Health,"Primary Education","Tertiary Education","Workforce Development and Vocational Education","Secondary Education",426
+874,"Secondary Education","Tertiary Education","Central Government (Central Agencies)",,,293
+875,Health,"Primary Education","Tertiary Education","Workforce Development and Vocational Education","Secondary Education",427
+876,Health,"Primary Education","Central Government (Central Agencies)",,,801
+877,"Central Government (Central Agencies)","Other Education",,,,444
+878,"Primary Education","Central Government (Central Agencies)","Tertiary Education","Social Protection",,63
+879,"Agricultural Extension; Research; and Other Support Activities","Central Government (Central Agencies)",,,,32
+880,"Social Protection",Health,"Primary Education","Other Education","Central Government (Central Agencies)",811
+881,"Secondary Education","Primary Education","Tertiary Education","Central Government (Central Agencies)","Early Childhood Education",660
+882,"Workforce Development and Vocational Education","Central Government (Central Agencies)",,,,924
+883,Health,"Primary Education","Tertiary Education","Workforce Development and Vocational Education","Secondary Education",438
+884,Health,"Primary Education","Early Childhood Education","Central Government (Central Agencies)",,814
+885,"Central Government (Central Agencies)","Primary Education","Tertiary Education",,,249
+886,"Roads and highways","Housing Construction","Other Agriculture; Fishing and Forestry","Other Education","Central Government (Central Agencies)",342
+887,"Primary Education","Tertiary Education","Central Government (Central Agencies)",,,244
+888,Health,"Other Education","Other Public Administration","Micro- and SME finance","Other social services",713
+889,"Tertiary Education","Workforce Development and Vocational Education","Sub-National Government",,,871
+890,"Water Supply","Other industry",Health,"Other Education","Micro- and SME finance",533
+891,"Vocational training","Central Government (Central Agencies)","Sub-National Government",,,923
+892,"Sub-National Government","Primary Education",Health,,,926
+893,"Other Public Administration","Other Education",Health,"Social Protection",,376
+894,"Central Government (Central Agencies)",Health,"Other Education","Social Protection","Rural and Inter-Urban Roads",625
+895,"Social Protection","Public Administration - Social Protection","Banking Institutions",,,111
+896,"Other Education","Social Protection","Other Industry; Trade and Services","Other Public Administration","Banking Institutions",916
+897,"Other Agriculture; Fishing and Forestry","Other Education",Health,Sanitation,"Sub-National Government",20
+898,"Other Public Administration","Other Agriculture; Fishing and Forestry","Primary Education",Health,"Social Protection",703
+899,"Other Public Administration","Other Agriculture; Fishing and Forestry","Other Education",Health,"Other Water Supply; Sanitation and Waste Management",417
+900,"Central Government (Central Agencies)",Health,"Other Education","Other Agriculture; Fishing and Forestry","Other Water Supply; Sanitation and Waste Management",900
+901,"Social Protection",,,,,123
+902,"Other Public Administration",Health,"Other Education","Other Industry; Trade and Services","Other Agriculture; Fishing and Forestry",543
+903,"Other Public Administration","Other Industry; Trade and Services","Other Energy and Extractives","Other Education",Health,664
+904,"Other Energy and Extractives",,,,,592
+905,Health,"Other Education","Other Water Supply; Sanitation and Waste Management","Social Protection","Other Public Administration",54
+906,"Other Public Administration",Health,"Other Education","Other Industry; Trade and Services","Other Agriculture; Fishing and Forestry",544
+907,"Social Protection","Central Government (Central Agencies)",,,,400
+908,"Other Public Administration","Primary Education","Other Agriculture; Fishing and Forestry",Health,"Other Industry; Trade and Services",540
+909,"Social Protection","Other Industry; Trade and Services","Other Public Administration","Other Energy and Extractives","Other Non-bank Financial Institutions",829
+910,"Other Education","Social Protection","Central Government (Central Agencies)","Oil and Gas","Other Transportation",500
+911,"Primary Education","Tertiary Education","Workforce Development and Vocational Education","Central Government (Central Agencies)","Other Education",281
+912,"Primary Education","Tertiary Education","Central Government (Central Agencies)","Social Protection",,75
+913,Health,"Social Protection","Early Childhood Education","Primary Education","Other Public Administration",471
+914,Power,"Other Transportation",Health,"Other Education","Other Agriculture; Fishing and Forestry",381
+915,"Other Education","Central Government (Central Agencies)",,,,674
+916,"Primary Education","Sub-National Government","Tertiary Education",,,906
+917,"Adult; Basic and Continuing Education","Social Protection",,,,613
+918,"Primary Education","Tertiary Education","Central Government (Central Agencies)","Secondary Education","Adult; Basic and Continuing Education",880
+919,"Primary Education","Tertiary Education","Secondary Education","Sub-National Government","Central Government (Central Agencies)",74
+920,"Other Public Administration","Early Childhood Education","Primary Education",Health,"Tertiary Education",264
+921,"Primary Education","Tertiary Education",,,,762
+922,"Secondary Education","Central Government (Central Agencies)","Tertiary Education","Sub-National Government","Social Protection",771
+923,Health,"Other Education","Sub-National Government","Other Industry; Trade and Services","Public Administration - Health",668
+924,"Central Government (Central Agencies)","Early Childhood Education","Tertiary Education",Health,"Primary Education",201
+925,"Primary Education","Tertiary Education","Central Government (Central Agencies)",,,329
+926,"Primary Education","Tertiary Education","Central Government (Central Agencies)",,,46
+927,"Primary Education","Social Protection","Tertiary Education","Adult; Basic and Continuing Education","Central Government (Central Agencies)",803
+928,"Primary Education","Secondary Education","Central Government (Central Agencies)","Early Childhood Education","Tertiary Education",85
+929,"Central Government (Central Agencies)","Sub-National Government","Tertiary Education","Primary Education",,186
+930,Health,"Primary Education","Secondary Education","Central Government (Central Agencies)","Tertiary Education",195
+931,"Primary Education","Secondary Education","Central Government (Central Agencies)","Tertiary Education","Sub-National Government",777
+932,"Primary Education","Secondary Education","Tertiary Education","Central Government (Central Agencies)",,263
+933,"Primary Education","Central Government (Central Agencies)","Tertiary Education","Social Protection",,47
+934,"Roads and highways","Social Protection","ICT Infrastructure","Water Supply","Agricultural Extension; Research; and Other Support Activities",569
+935,"Central Government (Central Agencies)","Adult; Basic and Continuing Education","Workforce Development and Vocational Education",,,564
+936,"Primary Education","Secondary Education","Tertiary Education","Other Public Administration","Workforce Development and Vocational Education",285
+937,"Central Government (Central Agencies)","Social Protection",,,,807
+938,"Other Education","Roads and highways",Health,"Other industry","Other Water Supply; Sanitation and Waste Management",340
+939,"Social Protection","Central Government (Central Agencies)",,,,211
+940,Health,"Early Childhood Education","Central Government (Central Agencies)",,,796
+941,"Primary Education","Tertiary Education","Social Protection",,,787
+942,"Other social services","Primary Education",Sanitation,Health,,662
